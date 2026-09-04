@@ -1,4 +1,11 @@
 [
+	{
+		"name": "Pasture",
+		"turnsToBuild": 8,
+		"techRequired": "Language", // Requires Animal Husbandry later
+		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "P"
+	},
 // Misc
   	{
 		"name": "City center",

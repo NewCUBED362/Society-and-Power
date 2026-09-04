@@ -3,11 +3,13 @@
     "name": "Rome",
     "leaderName": "Julius Caesar",
 
-    "declaringWar": "You are weak! The glorious Prata Kingdom marches to you demise.",
-    "attacked": "From the great plains to the east, to our home cities. Our people rise to oppose your conquest!",
-    "defeated": "I can feel my power fading... I am lost...",
-    "denounced": "Hmph? You cant insult a king. how barbaric.",
-    "introduction": "I am the great king Andeolus Laurito of Prata. Tell me, what lands do you come from..?",
+    "declaringWar": "The die is cast.",
+    "attacked": "Ambitious. You seek to conquer me before I move on you. I approve.",
+    "defeated": "Tu quoque? Then fall Caesar!",
+    "introduction": "I am Caesar, destroyer of conspiracies in the Alpine woods and the Senate alike.",
+
+    "neutralHello": "Hail.",
+    "hateHello": "What do YOU want?",
     "tradeRequest": "Our two Peoples could really use some agreement...",
 
     "innerColor": [0, 0, 180],

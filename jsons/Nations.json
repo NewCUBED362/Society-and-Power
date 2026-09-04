@@ -2,6 +2,7 @@
   {
     "name": "Rome",
     "leaderName": "Julius Caesar",
+	"startBias": ["Avoid [Desert","Avoid [Tundra]"],
 
     "declaringWar": "The die is cast.",
     "attacked": "Ambitious. You seek to conquer me before I move on you. I approve.",
@@ -22,6 +23,7 @@
   {
     "name": "China",
     "leaderName": "Qin Shi Huang",
+	"startBias": ["Grassland"],
 
     "declaringWar": "How dare you enrage Tian's might! I will send a great army, desecrate your ancestral shrines, eliminate your people. I swear I won't restrain them!",
     "attacked": "Fight if you want to. Soon I will punish and kill you!",

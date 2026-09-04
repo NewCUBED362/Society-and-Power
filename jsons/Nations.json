@@ -36,7 +36,7 @@
     "outerColor": [9,112,84],
     "uniqueName": "Monument Builders",
     "cities": ["Xi'an","Beijing","Taiyuan","Chengdu","Jiaodong","Changsha","Longxi","Guangzhou","Handan","Shenyang","Shanghai",
-		           "Wuhan","Yiyang","Xiurong","Chen","Xingzhou","Quxian","Nanjing","Langfang","Linzi","Jiujiang",
-		           "Kaifeng","Xuzhou","Hefei","Xinzheng","Lu’an"],
+		       "Wuhan","Yiyang","Xiurong","Chen","Xingzhou","Quxian","Nanjing","Langfang","Linzi","Jiujiang",
+		       "Kaifeng","Xuzhou","Hefei","Xinzheng","Lu’an"],
   }
 ]

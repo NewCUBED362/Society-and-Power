@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Time",
+    "milestones": ["Have highest score after max turns"],
+  },
+  {
+    "name": "Domination",
+    "milestones": ["Destroy all players"],
+  }
+]

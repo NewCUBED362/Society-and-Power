@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Settler",
+    "unitType": "Civilian",
+    "cost": 80,
+    "movement": 1,
+    "uniques": ["Founds a new city",
+                "Requires at least [2] population"],
+  },
+  {
+    "name": "Worker",
+    "unitType": "Civilian",
+    "cost": 40,
+    "movement": 1,
+    "uniques": ["Can build [Improvement] improvements on tiles"],
+  },
+  {
+    "name": "Warrior",
+    "unitType": "Blunt",
+    "cost": 40,
+    "movement": 1,
+    "strength": 15,
+  }
+ 
+]
+    

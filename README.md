@@ -1,2 +1,2 @@
-# Terra-Mira
-A mod for testing stuff and just anything I come up with in my mind when I am bored!
+# Society-and-Power
+A Ruleset mod for Unciv. Can you build a society that will stand the test of time?

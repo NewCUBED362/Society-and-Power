@@ -1,0 +1,16 @@
+[
+  {
+    "columnNumber": 0,
+    "era": "Neolithic era",
+    "buildingCost": 65,
+    "wonderCost": 100,
+    "techs": [
+    {
+      "name": "Language",
+      "row": 1,
+      "cost": 0,
+      "uniques": ["Starting tech"],
+    }
+    ],
+  }
+]

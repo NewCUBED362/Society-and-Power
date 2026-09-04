@@ -2,7 +2,7 @@
   {
     "columnNumber": 0,
     "era": "Neolithic era",
-    "buildingCost": 65,
+    "buildingCost": 20,
     "wonderCost": 100,
     "techs": [
     {
@@ -11,6 +11,24 @@
       "cost": 0,
       "uniques": ["Starting tech"],
     }
+    ],
+  },
+  {
+    "columnNumber": 1,
+    "era": "Neolithic era",
+    "buildingCost": 65,
+    "wonderCost": 100,
+    "techs": [
+      {
+        "name": "Fire",
+        "row": 4,
+        "cost": 20,
+      },
+      {
+        "name": "Flint Knapping",
+        "row": 7,
+        "cost": 20,
+      }
     ],
   }
 ]

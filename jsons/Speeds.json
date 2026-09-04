@@ -1,9 +1,9 @@
 [
   {
     "name": "Average",
-    "startYear": 500,
+    "startYear": -10000,
     "turns": [
-        {"yearsPerTurn": 12, "untilTurn":  9999},
+        {"yearsPerTurn": 53, "untilTurn":  9999},
              ]
   }
 ]

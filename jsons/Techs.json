@@ -22,12 +22,20 @@
       {
         "name": "Fire",
         "row": 4,
-        "cost": 20,
+        "cost": 30,
+        "prerequisites": ["Language"],
+      },
+      {
+        "name": "Agriculture",
+        "row": 6,
+        "cost": 30,
+        "prerequisites": ["Language"],
       },
       {
         "name": "Flint Knapping",
-        "row": 7,
-        "cost": 20,
+        "row": 8,
+        "cost": 30,
+        "prerequisites": ["Language"],
       }
     ],
   }

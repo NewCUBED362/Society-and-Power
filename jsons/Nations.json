@@ -2,7 +2,7 @@
   {
     "name": "Rome",
     "leaderName": "Julius Caesar",
-	"startBias": ["Avoid [Desert","Avoid [Tundra]"],
+	"startBias": ["Avoid [Desert]","Avoid [Tundra]"],
 
     "declaringWar": "The die is cast.",
     "attacked": "Ambitious. You seek to conquer me before I move on you. I approve.",

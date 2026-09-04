@@ -32,9 +32,11 @@
     "hateHello": "Oh, it's you?",
     "tradeRequest": "My friend, do you think you can accept this request?",
 
-    "innerColor": [215, 0, 0],
-    "outerColor": [255, 255, 255],
+    "innerColor": [255,255,255],
+    "outerColor": [9,112,84],
     "uniqueName": "Monument Builders",
-    "cities": ["Xi'an"],
+    "cities": ["Xi'an","Beijing","Taiyuan","Chengdu","Jiaodong","Changsha","Longxi","Guangzhou","Handan","Shenyang","Shanghai",
+		           "Wuhan","Yiyang","Xiurong","Chen","Xingzhou","Quxian","Nanjing","Langfang","Linzi","Jiujiang",
+		           "Kaifeng","Xuzhou","Hefei","Xinzheng","Lu’an"],
   }
 ]

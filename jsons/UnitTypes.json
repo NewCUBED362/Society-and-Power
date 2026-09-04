@@ -10,5 +10,6 @@
   {
     "name": "Recon",
     "movementType": "Land",
+  	"uniques": ["Ignores terrain cost"]
   }
 ]

@@ -15,6 +15,15 @@
     "uniques": ["Can build [Improvement] improvements on tiles"],
   },
   {
+		"name": "Work Boats",
+		"unitType": "Civilian Water",
+		"movement": 4,
+		"cost": 25,
+		"requiredTech": "Fishing",
+		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
+            "Uncapturable", "Automation is a primary action"]
+  },
+  {
     "name": "Warrior",
     "unitType": "Blunt",
     "cost": 40,

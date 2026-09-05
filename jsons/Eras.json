@@ -2,5 +2,9 @@
   {
     "name": "Neolithic era",
     "startingMilitaryUnit": "Scout",
+  },
+  {
+    "name": "Ancient era",
+    "startingMilitaryUnit": "Warrior",
   }
 ]

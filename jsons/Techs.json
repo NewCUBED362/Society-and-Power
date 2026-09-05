@@ -56,6 +56,12 @@
         "row": 5,
         "cost": 50,
         "prerequisites": ["Fire","Flint Knapping"],
+      },
+      {
+        "name": "Fishing",
+        "row": 9,
+        "cost": 50,
+        "prerequisites": ["Agriculture","Flint Knapping"],
       }
     ]
   }

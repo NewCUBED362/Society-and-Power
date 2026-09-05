@@ -2,6 +2,7 @@
   {
     "name": "Rome",
     "leaderName": "Julius Caesar",
+	"favoredReligion": "Christianity",
 	"startBias": ["Avoid [Desert]","Avoid [Tundra]"],
 
     "declaringWar": "The die is cast.",
@@ -26,6 +27,7 @@
   {
     "name": "China",
     "leaderName": "Qin Shi Huang",
+	"favoredReligion": "Taoism",
 	"startBias": ["Grassland"],
 
     "declaringWar": "How dare you enrage Tian's might! I will send a great army, desecrate your ancestral shrines, eliminate your people. I swear I won't restrain them!",

@@ -46,6 +46,12 @@
     "wonderCost": 100,
     "techs": [
       {
+        "name": "Pottery",
+        "row": 3,
+        "cost": 50,
+        "prerequisites": ["Fire","Agriculture"],
+      },
+      {
         "name": "Animal Husbandry",
         "row": 4,
         "cost": 50,
@@ -75,6 +81,7 @@
         "name": "Code of Law",
         "row": 8,
         "cost": 85,
+        "prerequisites": ["Creative Art","Pottery"],
       }
     ]
   }

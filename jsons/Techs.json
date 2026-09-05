@@ -38,5 +38,19 @@
         "prerequisites": ["Language"],
       }
     ],
+  },
+  {
+    "columnNumber": 2,
+    "era": "Neolithic era",
+    "buildingCost": 65,
+    "wonderCost": 100,
+    "techs": [
+      {
+        "name": "Animal Husbandry",
+        "row": 4,
+        "cost": 50,
+        "prerequisites": ["Fire","Agriculture"],
+      }
+    ]
   }
 ]

@@ -64,5 +64,18 @@
         "prerequisites": ["Agriculture","Flint Knapping"],
       }
     ]
+  },
+  {
+    "columnNumber": 3,
+    "era": "Ancient era",
+    "buildingCost": 80,
+    "wonderCost": 150,
+    "techs": [
+      {
+        "name": "Code of Law",
+        "row": 8,
+        "cost": 85,
+      }
+    ]
   }
 ]

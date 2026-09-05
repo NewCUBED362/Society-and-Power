@@ -16,6 +16,13 @@
 			        "[+1 Food] from [Fresh Water] tiles"],
 		"shortcutKey": "F",
 	},
+	{
+		"name": "Quarry",
+		"turnsToBuild": 8,
+		"techRequired": "Flint Knapping",
+		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+20 Gold]"],
+		"shortcutKey": "Q"
+	},
 // Misc
   	{
 		"name": "City center",

@@ -30,5 +30,15 @@
 		"uniques": ["Generated on every [20] tiles <in [{Featureless} {Grassland}] tiles> <in tiles without [Fresh Water]>",
 					"Generated on every [15] tiles <in [{Featureless} {Tundra}] tiles>",
 					"Generated on every [19] tiles <in [{Featureless} {Desert}] tiles>"]
-	}
+	},
+  {
+    "name": "Fish",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": ["Coast","Ocean"],
+    "food": 1,
+    "improvementStats": {"food": 1},
+    "improvedBy": ["Fishing Boats"],
+    "uniques": ["Generated on every [8] tiles <in [Coast] tiles>",
+                "Generated on every [18] tiles <in [Ocean] tiles>"],
+  },
 ]

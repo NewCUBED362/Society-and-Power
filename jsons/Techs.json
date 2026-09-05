@@ -50,6 +50,12 @@
         "row": 4,
         "cost": 50,
         "prerequisites": ["Fire","Agriculture"],
+      },
+      {
+        "name": "Creative Art",
+        "row": 5,
+        "cost": 50,
+        "prerequisites": ["Fire","Flint Knapping"],
       }
     ]
   }

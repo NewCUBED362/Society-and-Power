@@ -25,7 +25,7 @@
 		"name": "Library",
 		"science": 3,
 		"requiredTech": "Writing",
-	}
+	},
 // Wonders
 	{
 		"name": "Stonehenge",

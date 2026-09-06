@@ -32,6 +32,14 @@
 		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "F"
 	},
+	{
+		"name": "Mine",
+		"turnsToBuild": 8,
+		"terrainsCanBeBuiltOn": [],
+		"production": 1,
+		"techRequired": "Mining",
+		"shortcutKey": "M"
+	},
 // Misc
   	{
 		"name": "City center",

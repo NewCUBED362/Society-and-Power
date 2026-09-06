@@ -47,5 +47,25 @@
     "cities": ["Xi'an","Beijing","Taiyuan","Chengdu","Jiaodong","Changsha","Longxi","Guangzhou","Handan","Shenyang","Shanghai",
 		       "Wuhan","Yiyang","Xiurong","Chen","Xingzhou","Quxian","Nanjing","Langfang","Linzi","Jiujiang",
 		       "Kaifeng","Xuzhou","Hefei","Xinzheng","Lu’an"],
+  },
+  {
+    "name": "Maurya",
+    "leaderName": "Chandragupta",
+	"favoredReligion": "Hinduism",
+	"startBias": ["Forest","Jungle"],
+
+    "declaringWar": "How dare you enrage Tian's might! I will send a great army, desecrate your ancestral shrines, eliminate your people. I swear I won't restrain them!",
+    "attacked": "Fight if you want to. Soon I will punish and kill you!",
+    "defeated": "I never would have thought... not like this.",
+    "introduction": "You've come today. Is it possible that you want to view the scenery of the mountains and rivers in the State of Qin? I am the ruler of Qin.",
+
+    "neutralHello": "How are you, today?",
+    "hateHello": "Oh, it's you?",
+    "tradeRequest": "My friend, do you think you can accept this request?",
+
+    "innerColor": [255,255,255],
+    "outerColor": [9,112,84],
+    "uniqueName": "India",
+    "cities": ["City"],
   }
 ]

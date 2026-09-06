@@ -26,8 +26,8 @@
   {
     "name": "Warrior",
     "unitType": "Blunt",
-    "cost": 40,
-    "movement": 1,
+    "cost": 30,
+    "movement": 2,
     "strength": 15,
     "requiredTech": "Flint Knapping",
   },
@@ -35,7 +35,7 @@
     "name": "Scout",
     "unitType": "Recon",
     "cost": 30,
-    "movement": 1,
+    "movement": 3,
     "strength": 10,
   },
   {

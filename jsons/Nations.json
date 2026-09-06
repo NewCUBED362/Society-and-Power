@@ -25,7 +25,7 @@
                "Caesaraugusta","Sarmizegetusa","Hispalis","Iader","Eboracum","Vindobona","Olisipo","Volubilis","Lutetia","Caralis"],
   },
   {
-    "name": "China",
+    "name": "Qin",
     "leaderName": "Qin Shi Huang",
 	"favoredReligion": "Taoism",
 	"startBias": ["Grassland"],

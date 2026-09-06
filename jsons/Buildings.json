@@ -39,6 +39,11 @@
 		"happiness": 2,
 		"requiredTech": "Trapping",
 	},
+	{
+		"name": "Shrine",
+		"faith": 1,
+		"requiredTech": "Creative Art",
+	},
 // Wonders
 	{
 		"name": "Stonehenge",

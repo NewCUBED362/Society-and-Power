@@ -40,6 +40,12 @@
         "column": 1,
       },
       {
+        "name": "Ilkum",
+        "row": 1,
+        "column": 2,
+        "requires": ["Urban Planning"],
+      },
+      {
         "name": "Craftmanship Complete",
       }
     ]

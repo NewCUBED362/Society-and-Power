@@ -26,6 +26,11 @@
 		"science": 3,
 		"requiredTech": "Writing",
 	},
+	{
+		"name": "Bronze Forge",
+		"production": 2,
+		"requiredTech": "Bronze Working",
+	},
 // Wonders
 	{
 		"name": "Stonehenge",

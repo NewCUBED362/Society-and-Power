@@ -99,7 +99,7 @@
         "name": "Sailing",
         "row": 9,
         "cost": 85,
-        "prerequisites": ["Fishing","Flint Knapping"],
+        "prerequisites": ["Fishing"],
       },
     ]
   },
@@ -114,6 +114,12 @@
         "row": 3,
         "cost": 90,
         "prerequisites": ["Code of Law","Pottery"],
+      },
+      {
+        "name": "Bronze Working",
+        "row": 4,
+        "cost": 90,
+        "prerequisites": ["Mining","Archery"],
       }
     ]
   }

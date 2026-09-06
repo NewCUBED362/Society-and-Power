@@ -2,6 +2,7 @@
   {
     "name": "Mysticism",
     "era": "Neolithic era",
+    "uniques": ["[+1 Faith, +1 Culture] [in capital]"],
     "policies": [
       {
         "name": "Priesthood",
@@ -33,6 +34,7 @@
   {
     "name": "Craftmanship",
     "era": "Neolithic era",
+    "uniques": ["[+2 Production] [in capital]"],
     "policies": [
       {
         "name": "Tool Making",

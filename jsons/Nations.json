@@ -90,8 +90,6 @@
     "innerColor": [125,236,227],
     "outerColor": [56,0,101],
     "uniqueName": "Ancient Egypt",
-    "cities": ["Pataliputra","Ujjayini","Tosali","Suvarnagiri","Taksasila","Kausambi","Samapa","Risila","Pudanagala","Girinagara",
-               "Sopara","Kandahar","Kopbal","Virata","Brahmagiri","Vidisa","Varanasi","Kalsi","Rampurva","Banavasi","Erragudi",
-               "Shahbazgarhi","Lauriya Araraj","Sannathi","Topra","Lauriya Nandangarh","Mansehra","Sahasram","Rupnath","Bairat"],
+    "cities": ["City"],
   }
 ]

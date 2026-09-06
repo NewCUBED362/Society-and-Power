@@ -40,6 +40,21 @@
 		"techRequired": "Mining",
 		"shortcutKey": "M"
 	},
+	{
+		"name": "Plantation",
+		"turnsToBuild": 6,
+		"gold": 1,
+		"techRequired": "Agriculture",
+		"uniques": ["Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "P"
+	},
+	{
+		"name": "Camp",
+		"turnsToBuild": 7,
+		"techRequired": "Trapping",
+		"uniques": ["Does not need removal of [Forest]","Does not need removal of [Jungle]","Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "C"
+	},
 // Misc
   	{
 		"name": "City center",

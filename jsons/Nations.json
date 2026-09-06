@@ -90,6 +90,8 @@
     "innerColor": [125,236,227],
     "outerColor": [56,0,101],
     "uniqueName": "Ancient Egypt",
-    "cities": ["City"],
+    "cities": ["Waset","Men-nefer","Akhetaten","Djedet","Djanet","Behdet","Nekheb","Khemenu","Nekhen","Gebtu","Tjenu","Per-Atum",
+               "Abdju","Zau","Ipu","Khito","Swenett","Per-Hathor","Abu","Hut-waret","Djerty","Per-Bast","Nubt","Thonis","Per-Wadjet",
+               "Dehenet","Per-Amun","Ta-senet","Henen-Nesut","Per-Ramesses"],
   }
 ]

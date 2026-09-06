@@ -35,14 +35,20 @@
     "era": "Neolithic era",
     "policies": [
       {
-        "name": "Urban Planning",
+        "name": "Tool Making",
         "row": 1,
         "column": 1,
       },
       {
-        "name": "Ilkum",
+        "name": "Urban Planning",
         "row": 1,
         "column": 2,
+        "requires": ["Tool Making"],
+      },
+      {
+        "name": "Ilkum",
+        "row": 1,
+        "column": 3,
         "requires": ["Urban Planning"],
       },
       {

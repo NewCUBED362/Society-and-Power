@@ -10,19 +10,19 @@
       },
       {
         "name": "Clan Networks",
-        "row": 1,
-        "column": 2,
+        "row": 2,
+        "column": 1,
         "requires": ["Priesthood"],
       },
       {
         "name": "Inspiration",
-        "row": 3,
-        "column": 1,
+        "row": 1,
+        "column": 3,
       },
       {
         "name": "Revelation",
-        "row": 3,
-        "column": 2,
+        "row": 2,
+        "column": 3,
         "requires": ["Inspiration"],
       },
       {
@@ -36,25 +36,25 @@
     "policies": [
       {
         "name": "Tool Making",
-        "row": 3,
-        "column": 1,
+        "row": 1,
+        "column": 3,
       },
       {
         "name": "Urban Planning",
-        "row": 3,
-        "column": 2,
+        "row": 2,
+        "column": 3,
         "requires": ["Tool Making"],
       },
       {
         "name": "Ilkum",
-        "row": 1,
-        "column": 3,
+        "row": 3,
+        "column": 1,
         "requires": ["Urban Planning"],
       },
       {
         "name": "Agoge",
-        "row": 5,
-        "column": 3,
+        "row": 3,
+        "column": 5,
         "requires": ["Urban Planning"],
       },
       {

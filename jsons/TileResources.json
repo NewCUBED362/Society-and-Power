@@ -41,7 +41,7 @@
     "uniques": ["Generated on every [8] tiles <in [Coast] tiles>",
                 "Generated on every [18] tiles <in [Ocean] tiles>"],
   },
-// Luxury
+// Luxury resources
 	{
 		"name": "Copper",
 		"resourceType": "Luxury",
@@ -59,6 +59,16 @@
 					"Doesn't generate naturally <in [{Grassland} {Fresh Water}] tiles>",
 					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>",
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]> <in tiles without [Tundra]>"]
+	},
+	{
+		"name": "Furs",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Forest","Tundra"],
+		"gold": 2,
+		"improvement": "Camp",
+		"improvementStats": {"gold": 1},
+		"uniques": ["Generated with weight [40] <in [Tundra] Regions>",
+					"Generated with weight [10] <in [Forest] Regions>"]
 	},
 // Player made resources 
 	{

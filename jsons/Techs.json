@@ -84,6 +84,12 @@
         "prerequisites": ["Pottery","Animal Husbandry"],
       },
       {
+        "name": "Archery",
+        "row": 7,
+        "cost": 85,
+        "prerequisites": ["Creative Art","Animal Husbandry"],
+      }
+      {
         "name": "Code of Law",
         "row": 8,
         "cost": 85,

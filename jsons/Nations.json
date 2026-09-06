@@ -87,8 +87,8 @@
     "hateHello": "What do you want?",
     "tradeRequest": "My friend, are you interested in this arrangement?",
 
-    "innerColor": [125,236,227],
-    "outerColor": [56,0,101],
+    "innerColor": [1,78,81],
+    "outerColor": [234,225,157],
     "uniqueName": "Ancient Egypt",
     "cities": ["Waset","Men-nefer","Akhetaten","Djedet","Djanet","Behdet","Nekheb","Khemenu","Nekhen","Gebtu","Tjenu","Per-Atum",
                "Abdju","Zau","Ipu","Khito","Swenett","Per-Hathor","Abu","Hut-waret","Djerty","Per-Bast","Nubt","Thonis","Per-Wadjet",

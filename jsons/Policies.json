@@ -29,5 +29,19 @@
         "name": "Mysticism Complete",
       }
     ]
+  },
+  {
+    "name": "Craftmanship",
+    "era": "Neolithic era",
+    "policies": [
+      {
+        "name": "Urban Planning",
+        "row": 1,
+        "column": 1,
+      },
+      {
+        "name": "Craftmanship Complete",
+      }
+    ]
   }
 ]

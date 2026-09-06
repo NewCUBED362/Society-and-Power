@@ -78,6 +78,12 @@
     "wonderCost": 150,
     "techs": [
       {
+        "name": "Mining",
+        "row": 3,
+        "cost": 85,
+        "prerequisites": ["Pottery","Animal Husbandry"],
+      },
+      {
         "name": "Code of Law",
         "row": 8,
         "cost": 85,

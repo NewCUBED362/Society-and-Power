@@ -6,7 +6,7 @@
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"food": 1,
 		"improvement": "Pasture",
-		"improvementStats": {"production": 1},
+		"improvementStats": {"production": 2},
 		"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
 					"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"]
 	},
@@ -16,7 +16,7 @@
 		"terrainsCanBeFoundOn": ["Hill"],
 		"food": 1,
 		"improvement": "Pasture",
-		"improvementStats": {"food": 1},
+		"improvementStats": {"food": 2},
 		"uniques": ["Generated on every [13] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
 					"Generated on every [10] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fresh Water]> <in [Hill] Regions>"]
 	},
@@ -26,7 +26,7 @@
 		"terrainsCanBeFoundOn": ["Grassland","Desert","Tundra"],
 		"production": 1,
 		"improvement": "Quarry",
-		"improvementStats": {"production": 1},
+		"improvementStats": {"production": 2},
 		"uniques": ["Generated on every [20] tiles <in [{Featureless} {Grassland}] tiles> <in tiles without [Fresh Water]>",
 					"Generated on every [15] tiles <in [{Featureless} {Tundra}] tiles>",
 					"Generated on every [19] tiles <in [{Featureless} {Desert}] tiles>"]

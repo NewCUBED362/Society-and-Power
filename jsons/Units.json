@@ -26,9 +26,9 @@
   {
     "name": "Warrior",
     "unitType": "Blunt",
-    "cost": 30,
+    "cost": 40,
     "movement": 2,
-    "strength": 15,
+    "strength": 20,
     "requiredTech": "Flint Knapping",
   },
   {

@@ -83,9 +83,9 @@
     "defeated": "Egypt is lost. If I can't embrace my love, I will embrace the asps.",
     "introduction": "I am Isis reborn, I am the living Nile, I am Cleopatra and an ally, if you are worthy.",
 
-    "neutralHello": "I wish you peace.",
-    "hateHello": "What do you want?",
-    "tradeRequest": "My friend, are you interested in this arrangement?",
+    "neutralHello": "Good day.",
+    "hateHello": "Oh, it's you.",
+    "tradeRequest": "Generous Egypt makes you this offer.",
 
     "innerColor": [1,78,81],
     "outerColor": [234,225,157],

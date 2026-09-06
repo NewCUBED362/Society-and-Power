@@ -78,10 +78,10 @@
 	"favoredReligion": "Islam",
 	"startBias": ["Flood plains","Desert"],
 
-    "declaringWar": "Your territory could be much improved under Indian rule. Best I see it through.",
-    "attacked": "India does not fear war. The most you can do is slow our rightful advance.",
-    "defeated": "You learned my own lessons far too well. I instructed you in my own demise.",
-    "introduction": "I am Chandragupta, Mauryan emperor of unified India. No, it has not gone to my head.",
+    "declaringWar": "I have had enough with you. May Amun Ra guide us!",
+    "attacked": "Hah! Osiris will be pleased to welcome my enemies.",
+    "defeated": "Egypt is lost. If I can't embrace my love, I will embrace the asps.",
+    "introduction": "I am Isis reborn, I am the living Nile, I am Cleopatra and an ally, if you are worthy.",
 
     "neutralHello": "I wish you peace.",
     "hateHello": "What do you want?",

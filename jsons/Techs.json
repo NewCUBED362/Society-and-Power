@@ -79,7 +79,7 @@
     "techs": [
       {
         "name": "Mining",
-        "row": 3,
+        "row": 4,
         "cost": 85,
         "prerequisites": ["Pottery","Animal Husbandry"],
       },
@@ -94,6 +94,20 @@
         "row": 8,
         "cost": 85,
         "prerequisites": ["Creative Art","Pottery"],
+      }
+    ]
+  },
+  {
+    "columnNumber": 4,
+    "era": "Ancient era",
+    "buildingCost": 100,
+    "wonderCost": 150,
+    "techs": [
+      {
+        "name": "Writing",
+        "row": 3,
+        "cost": 90,
+        "prerequisites": ["Code of Law","Pottery"],
       }
     ]
   }

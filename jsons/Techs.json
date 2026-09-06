@@ -47,7 +47,7 @@
     "techs": [
       {
         "name": "Pottery",
-        "row": 3,
+        "row": 2,
         "cost": 50,
         "prerequisites": ["Fire","Agriculture"],
       },
@@ -78,8 +78,14 @@
     "wonderCost": 150,
     "techs": [
       {
-        "name": "Mining",
+        "name": "Trapping",
         "row": 4,
+        "cost": 50,
+        "prerequisites": ["Animal Husbandry"],
+      },
+      {
+        "name": "Mining",
+        "row": 5,
         "cost": 85,
         "prerequisites": ["Pottery","Animal Husbandry"],
       },

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mysticism",
+    "era": "Neolithic era",
+    "policies": [
+      {
+        "name": "Priesthood",
+        "row": 1,
+        "column": 1,
+      }
+      {
+        "name": "Mysticism Complete",
+      }
+    ]
+  }
+]

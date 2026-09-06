@@ -34,8 +34,8 @@
 	},
 	{
 		"name": "Mine",
-		"turnsToBuild": 8,
-		"terrainsCanBeBuiltOn": [],
+		"turnsToBuild": 7,
+		"terrainsCanBeBuiltOn": ["Hill"],
 		"production": 1,
 		"techRequired": "Mining",
 		"shortcutKey": "M"

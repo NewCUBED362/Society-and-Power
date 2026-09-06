@@ -41,9 +41,9 @@
   {
     "name": "Slinger",
     "unitType": "Archery",
-    "cost": 40,
+    "cost": 35,
     "movement": 1,
-    "strength": 8,
+    "strength": 5,
     "rangedStrength": 15,
     "range": 1,
     "requiredTech": "Animal Husbandry",

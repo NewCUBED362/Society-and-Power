@@ -66,6 +66,8 @@
     "innerColor": [255,255,255],
     "outerColor": [9,112,84],
     "uniqueName": "Dhamma Thambhā",
+	"uniques": ["[+2 Happiness] from all [Happiness] buildings",
+		        "[+2 Happiness] from all [Science] buildings"],
     "cities": ["City"],
   }
 ]

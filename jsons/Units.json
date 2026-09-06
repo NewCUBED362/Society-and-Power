@@ -60,6 +60,15 @@
     "range": 2,
     "requiredTech": "Archery",
   },
+  {
+	"name": "Galley",
+	"unitType": "Melee Water",
+	"cost": 70,
+	"movement": 3,
+	"strength": 18,
+	"requiredTech": "Sailing",
+  },
+		
 // Great People
 	{
 		"name": "Great Prophet",

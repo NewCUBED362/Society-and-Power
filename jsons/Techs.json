@@ -94,7 +94,13 @@
         "row": 8,
         "cost": 85,
         "prerequisites": ["Creative Art","Pottery"],
-      }
+      },
+      {
+        "name": "Sailing",
+        "row": 9,
+        "cost": 85,
+        "prerequisites": ["Fishing","Flint Knapping"],
+      },
     ]
   },
   {

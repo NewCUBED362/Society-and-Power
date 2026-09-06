@@ -33,6 +33,11 @@
 		"uniques": ["Provides [2] [Bronze]",
 		            "Consumes [1] [Copper]"],
 	},
+	{
+		"name": "Circus",
+		"happiness": 2,
+		"requiredTech": "Trapping",
+	},
 // Wonders
 	{
 		"name": "Stonehenge",

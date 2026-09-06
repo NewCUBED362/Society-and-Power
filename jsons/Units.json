@@ -47,6 +47,8 @@
     "rangedStrength": 15,
     "range": 1,
     "requiredTech": "Animal Husbandry",
+	"obsoleteTech": "Archery",
+	"upgradesTo": "Archer",
   },
   {
     "name": "Archer",

@@ -30,6 +30,8 @@
 		"name": "Bronze Forge",
 		"production": 2,
 		"requiredTech": "Bronze Working",
+		"uniques": ["Provides [2] [Bronze]",
+		            "Consumes [1] [Copper]"],
 	},
 // Wonders
 	{

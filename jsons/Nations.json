@@ -59,9 +59,9 @@
     "defeated": "You learned my own lessons far too well. I instructed you in my own demise.",
     "introduction": "I am Chandragupta, Mauryan emperor of unified India. No, it has not gone to my head.",
 
-    "neutralHello": "How are you, today?",
-    "hateHello": "Oh, it's you?",
-    "tradeRequest": "My friend, do you think you can accept this request?",
+    "neutralHello": "I wish you peace.",
+    "hateHello": "What do you want?",
+    "tradeRequest": "My friend, are you interested in this arrangement?",
 
     "innerColor": [255,255,255],
     "outerColor": [9,112,84],

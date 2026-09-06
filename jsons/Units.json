@@ -53,10 +53,10 @@
   {
     "name": "Archer",
     "unitType": "Archery",
-    "cost": 65,
+    "cost": 60,
     "movement": 1,
-    "strength": 10,
-    "rangedStrength": 18,
+    "strength": 15,
+    "rangedStrength": 25,
     "range": 2,
     "requiredTech": "Archery",
   },

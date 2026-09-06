@@ -30,6 +30,7 @@
     "movement": 2,
     "strength": 20,
     "requiredTech": "Flint Knapping",
+	"upgradesTo": "Spearman",
   },
   {
     "name": "Scout",
@@ -67,6 +68,14 @@
 	"movement": 3,
 	"strength": 30,
 	"requiredTech": "Sailing",
+  },
+  {
+    "name": "Spearman",
+    "unitType": "Sword",
+    "cost": 65,
+    "movement": 2,
+    "strength": 30,
+    "requiredTech": "Bronze Working",
   },
 		
 // Great People

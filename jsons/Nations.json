@@ -63,11 +63,13 @@
     "hateHello": "What do you want?",
     "tradeRequest": "My friend, are you interested in this arrangement?",
 
-    "innerColor": [255,255,255],
-    "outerColor": [9,112,84],
+    "innerColor": [125,236,227],
+    "outerColor": [56,0,101],
     "uniqueName": "Dhamma Thambhā",
 	"uniques": ["[+2 Happiness] from all [Happiness] buildings",
 		        "[+2 Happiness] from all [Science] buildings"],
-    "cities": ["City"],
+    "cities": ["Pataliputra","Ujjayini","Tosali","Suvarnagiri","Taksasila","Kausambi","Samapa","Risila","Pudanagala","Girinagara",
+               "Sopara","Kandahar","Kopbal","Virata","Brahmagiri","Vidisa","Varanasi","Kalsi","Rampurva","Banavasi","Erragudi",
+               "Shahbazgarhi","Lauriya Araraj","Sannathi","Topra","Lauriya Nandangarh","Mansehra","Sahasram","Rupnath","Bairat"],
   }
 ]

@@ -20,6 +20,11 @@
 		"name": "Granary",
 		"food": 2,
 		"requiredTech": "Pottery",
+	},
+	{
+		"name": "Library",
+		"science": 3,
+		"requiredTech": "Writing",
 	}
 // Wonders
 	{

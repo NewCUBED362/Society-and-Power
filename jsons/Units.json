@@ -63,9 +63,9 @@
   {
 	"name": "Galley",
 	"unitType": "Melee Water",
-	"cost": 70,
+	"cost": 65,
 	"movement": 3,
-	"strength": 18,
+	"strength": 30,
 	"requiredTech": "Sailing",
   },
 		

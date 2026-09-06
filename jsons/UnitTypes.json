@@ -19,5 +19,9 @@
   {
     "name": "Archery",
     "movementType": "Land",
+  },
+  {
+    "name": "Melee Water",
+    "movementType": "Water",
   }
 ]

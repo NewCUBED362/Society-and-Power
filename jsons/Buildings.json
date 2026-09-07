@@ -36,13 +36,19 @@
 	},
 	{
 		"name": "Circus",
-		"happiness": 2,
+		"happiness": 3,
 		"requiredTech": "Trapping",
 	},
 	{
 		"name": "Shrine",
 		"faith": 1,
 		"requiredTech": "Creative Art",
+	},
+	{
+		"name": "Monument",
+		"culture": 2,
+		"happiness": 2,
+		"requiredTech": "Masonry",
 	},
 // Wonders
 	{

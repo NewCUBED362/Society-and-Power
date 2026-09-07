@@ -85,7 +85,7 @@
       },
       {
         "name": "Mining",
-        "row": 5,
+        "row": 2,
         "cost": 85,
         "prerequisites": ["Pottery","Animal Husbandry"],
       },
@@ -129,7 +129,7 @@
       },
       {
         "name": "Masonry",
-        "row": 5,
+        "row": 2,
         "cost": 90,
         "prerequisites": ["Mining"],
       },

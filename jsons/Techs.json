@@ -91,13 +91,13 @@
       },
       {
         "name": "Archery",
-        "row": 7,
+        "row": 8,
         "cost": 85,
         "prerequisites": ["Creative Art","Animal Husbandry"],
       }
       {
         "name": "Code of Law",
-        "row": 8,
+        "row": 5,
         "cost": 85,
         "prerequisites": ["Creative Art","Pottery"],
       },
@@ -123,7 +123,7 @@
       },
       {
         "name": "Bronze Working",
-        "row": 4,
+        "row": 7,
         "cost": 90,
         "prerequisites": ["Mining","Archery"],
       },
@@ -132,6 +132,12 @@
         "row": 2,
         "cost": 90,
         "prerequisites": ["Mining"],
+      },
+      {
+        "name": "Irrigation",
+        "row": 6,
+        "cost": 90,
+        "prerequisites": ["Trapping","Code of Law"],
       },
     ]
   }

@@ -126,7 +126,13 @@
         "row": 4,
         "cost": 90,
         "prerequisites": ["Mining","Archery"],
-      }
+      },
+      {
+        "name": "Masonry",
+        "row": 5,
+        "cost": 90,
+        "prerequisites": ["Mining"],
+      },
     ]
   }
 ]

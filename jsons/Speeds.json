@@ -3,7 +3,9 @@
     "name": "Average",
     "startYear": -10000,
     "turns": [
-        {"yearsPerTurn": 53, "untilTurn":  9999},
+        {"yearsPerTurn": 84, "untilTurn":  40},
+        {"yearsPerTurn": 56, "untilTurn":  70},
+        {"yearsPerTurn": 46, "untilTurn":  9999},
              ]
   }
 ]

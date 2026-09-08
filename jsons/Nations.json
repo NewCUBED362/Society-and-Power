@@ -114,6 +114,7 @@
     "innerColor": [255,255,255],
     "outerColor": [9,112,84],
     "uniqueName": "Great Canon of Yongle",
-    "cities": ["Yingtian","Beiping","Fuzhou","Guangzhou","Hangzhou","Guilin","Guiyang","Kaifeng","Hankou","Nanchang"],
+    "cities": ["Yingtian","Beiping","Fuzhou","Guangzhou","Hangzhou","Guilin","Guiyang","Kaifeng","Hankou","Nanchang",
+	           "Jinan","Taiyuan","Chengdu","Yunnan","Nanning","Luzhou","Wuchang","Quanzhou","Changsha","Hangyang"],
   }
 ]

@@ -102,10 +102,10 @@
 	"favoredReligion": "Taoism",
 	"startBias": ["Grassland"],
 
-    "declaringWar": "How dare you enrage Tian's might! I will send a great army, desecrate your ancestral shrines, eliminate your people. I swear I won't restrain them!",
-    "attacked": "Fight if you want to. Soon I will punish and kill you!",
-    "defeated": "I never would have thought... not like this.",
-    "introduction": "You've come today. Is it possible that you want to view the scenery of the mountains and rivers in the State of Qin? I am the ruler of Qin.",
+    "declaringWar": "It is not my wish to conquer your realm by force, but there is no other way.",
+    "attacked": "You might as well conquer the heaven itself, Hahaha! Now I see whom had you targeted when you were still controlling your bowstrings earlier.",
+    "defeated": "The road ahead is dark, the surrounding pines are dense like walls, the sky and earth are full dark as lacquer.",
+    "introduction": "I'm the Yongle Emperor, those who come in merchant ships are my friends. Is there any future for those who oppose my will?",
 
     "neutralHello": "How are you, today?",
     "hateHello": "Oh, it's you?",

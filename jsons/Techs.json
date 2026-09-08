@@ -140,5 +140,11 @@
         "prerequisites": ["Trapping","Code of Law"],
       },
     ]
-  }
+  },
+  {
+    "columnNumber": 5,
+    "era": "Ancient era",
+    "buildingCost": 120,
+    "wonderCost": 210,
+    "techs": [
 ]

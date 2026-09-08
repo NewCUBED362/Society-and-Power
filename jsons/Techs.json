@@ -21,19 +21,19 @@
     "techs": [
       {
         "name": "Fire",
-        "row": 4,
+        "row": 5,
         "cost": 30,
         "prerequisites": ["Language"],
       },
       {
         "name": "Agriculture",
-        "row": 6,
+        "row": 4,
         "cost": 30,
         "prerequisites": ["Language"],
       },
       {
         "name": "Flint Knapping",
-        "row": 8,
+        "row": 7,
         "cost": 30,
         "prerequisites": ["Language"],
       }

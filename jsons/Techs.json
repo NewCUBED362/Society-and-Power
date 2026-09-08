@@ -33,7 +33,7 @@
       },
       {
         "name": "Flint Knapping",
-        "row": 7,
+        "row": 2,
         "cost": 30,
         "prerequisites": ["Language"],
       }

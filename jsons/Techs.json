@@ -47,19 +47,19 @@
     "techs": [
       {
         "name": "Pottery",
-        "row": 2,
-        "cost": 50,
-        "prerequisites": ["Fire","Agriculture"],
-      },
-      {
-        "name": "Animal Husbandry",
         "row": 4,
         "cost": 50,
         "prerequisites": ["Fire","Agriculture"],
       },
       {
+        "name": "Animal Husbandry",
+        "row": 3,
+        "cost": 50,
+        "prerequisites": ["Fire","Agriculture"],
+      },
+      {
         "name": "Creative Art",
-        "row": 5,
+        "row": 6,
         "cost": 50,
         "prerequisites": ["Fire","Flint Knapping"],
       },

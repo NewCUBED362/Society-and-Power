@@ -111,7 +111,7 @@
     "hateHello": "Oh, it's you?",
     "tradeRequest": "My friend, do you think you can accept this request?",
 
-    "innerColor": [255,255,255],
+    "innerColor": [234,225,157],
     "outerColor": [9,112,84],
     "uniqueName": "Great Canon of Yongle",
     "cities": ["Yingtian","Beiping","Fuzhou","Guangzhou","Hangzhou","Guilin","Guiyang","Kaifeng","Hankou","Nanchang",

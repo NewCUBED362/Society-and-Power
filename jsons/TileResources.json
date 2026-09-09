@@ -16,10 +16,13 @@
   {
     "name": "Sheep",
     "resourceType": "Bonus",
-    "terrainsCanBeFoundOn": [],
+    "terrainsCanBeFoundOn": ["Hill"],
     "food": 1,
     "improvementStats": {"production": 2},
     "improvement": "Pasture",
-    "unique": [],
+    "unique": ["Generated on every [18] tiles <in [{Grassland} {Hill}] tiles>",
+               "Generated on every [20] tiles <in [{Plains} {Hill}] tiles>",
+               "Generated on every [24] tiles <in [{Tundra} {Hill}] tiles> <with [1] to [5] neighboring [Tundra] tiles>",
+               "Generated on every [45] tiles <in [{Featureless} {Grassland}] tiles> <within [2] tiles of a [Hill] tile>"],
   }
 ]

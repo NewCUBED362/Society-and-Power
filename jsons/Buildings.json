@@ -57,6 +57,11 @@
 		"requiredTech": "The Wheel",
 		"uniques": ["Must be on [River]"],
 	},
+	{
+		"name": "Dock",
+		"gold": 3,
+		"requiredTech": "Sailing",
+	},
 // Wonders
 	{
 		"name": "Stonehenge",

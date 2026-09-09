@@ -147,4 +147,12 @@
     "buildingCost": 120,
     "wonderCost": 210,
     "techs": [
+      {
+        "name": "The Wheel",
+        "row": 3,
+        "cost": 110,
+        "prerequisites": ["Masonry","Bronze Working"],
+      }
+    ]
+  }
 ]

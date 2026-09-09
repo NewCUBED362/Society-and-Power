@@ -79,7 +79,7 @@
     "techs": [
       {
         "name": "Trapping",
-        "row": 4,
+        "row": 3,
         "cost": 50,
         "prerequisites": ["Animal Husbandry"],
       },
@@ -97,7 +97,7 @@
       }
       {
         "name": "Code of Law",
-        "row": 5,
+        "row": 6,
         "cost": 85,
         "prerequisites": ["Creative Art","Pottery"],
       },
@@ -117,13 +117,13 @@
     "techs": [
       {
         "name": "Writing",
-        "row": 3,
+        "row": 1,
         "cost": 90,
         "prerequisites": ["Code of Law","Pottery"],
       },
       {
         "name": "Bronze Working",
-        "row": 7,
+        "row": 8,
         "cost": 90,
         "prerequisites": ["Mining","Archery"],
       },
@@ -135,7 +135,7 @@
       },
       {
         "name": "Irrigation",
-        "row": 6,
+        "row": 4,
         "cost": 90,
         "prerequisites": ["Trapping","Code of Law"],
       },

@@ -133,7 +133,7 @@
 
     "neutralHello": "Hello.",
     "hateHello": "What is it?",
-    "tradeRequest": "My friend, do you think you can accept this request?",
+    "tradeRequest": "My friend, does this seem reasonable to you?",
 
     "innerColor": [234,225,157],
     "outerColor": [9,112,84],

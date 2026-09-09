@@ -61,6 +61,19 @@
 		       "Doesn't generate naturally <in [Desert] tiles>",
 		       "Doesn't generate naturally <in [Snow] tiles>"],
   },
+  {
+    "name": "Cotton",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": ["Grassland","Flood plains"],
+    "gold": 1,
+    "improvementStats": {"gold": 1},
+    "improvement": "Plantation",
+    "unique": ["Generated with weight [15] <in [Desert] Regions>",
+					"Generated with weight [30] <in [Grassland] Regions>",
+					"Generated with weight [15] <in [Hybrid] Regions>",
+					"Generated near City States with weight [10]",
+					"Doesn't generate naturally <in [Hill] tiles>"],
+  },
 // Player-made resources 
   {
     "name": "Bronze",
@@ -77,4 +90,5 @@
 //    "improvement": "",
 //    "unique": [],
 //  },
+
 ]

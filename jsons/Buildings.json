@@ -50,6 +50,12 @@
 		"happiness": 2,
 		"requiredTech": "Masonry",
 	},
+	{
+		"name": "Water Mill",
+		"food": 2,
+		"production": 1,
+		"requiredTech": "The Wheel",
+	},
 // Wonders
 	{
 		"name": "Stonehenge",

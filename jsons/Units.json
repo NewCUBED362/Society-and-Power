@@ -82,7 +82,7 @@
     "unitType": "Heavy Horseback",
     "cost": 65,
     "movement": 2,
-    "strength": 30,
+    "strength": 28,
     "requiredTech": "The Wheel",
   },
 		

@@ -37,4 +37,10 @@
                "Generated on every [32] tiles <within [2] tiles of a [Mountain] tile>",
                "Doesn't generate naturally <in [Snow] tiles>"],
   },
+// Player-made resources 
+  {
+    "name": "Bronze",
+    "resourceType": "Strategic",
+    "production": 1,
+  }
 ]

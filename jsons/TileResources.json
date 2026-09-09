@@ -48,6 +48,19 @@
                "Generated on every [32] tiles <within [2] tiles of a [Mountain] tile>",
                "Doesn't generate naturally <in [Snow] tiles>"],
   },
+  {
+    "name": "Furs",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": ["Grassland","Plains","Tundra","Forest"],
+    "food": 1,
+    "improvementStats": {"gold": 2},
+    "improvement": "Camp",
+    "unique": ["Generated on every [20] tiles <in [{Tundra} {Forest}] tiles> <with [2] to [6] neighboring [Forest] tiles>",
+		       "Generated on every [28] tiles <in [{Grassland} {Forest}] tiles> <with [2] to [6] neighboring [Forest] tiles>",
+		       "Generated on every [36] tiles <in [{Plains} {Forest}] tiles> <with [2] to [6] neighboring [Forest] tiles>",
+		       "Doesn't generate naturally <in [Desert] tiles>",
+		       "Doesn't generate naturally <in [Snow] tiles>"],
+  },
 // Player-made resources 
   {
     "name": "Bronze",

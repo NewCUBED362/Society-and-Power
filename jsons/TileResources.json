@@ -12,5 +12,14 @@
                "Generated on every [40] tiles <in [{Grassland} {Hill}] tiles> <with [2] to [5] neighboring [Grassland] tiles>",
                "Doesn't generate naturally <in [Tundra] tiles>",
                "Doesn't generate naturally <in [Desert] tiles>"],
+  },
+  {
+    "name": "Sheep",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [],
+    "food": 1,
+    "improvementStats": {"production": 2},
+    "improvement": "Pasture",
+    "unique": [],
   }
 ]

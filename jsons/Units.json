@@ -77,6 +77,14 @@
     "strength": 30,
     "requiredTech": "Bronze Working",
   },
+  {
+    "name": "Chariot",
+    "unitType": "Heavy Horseback",
+    "cost": 65,
+    "movement": 2,
+    "strength": 30,
+    "requiredTech": "The Wheel",
+  },
 		
 // Great People
   {

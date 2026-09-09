@@ -138,6 +138,8 @@
     "innerColor": [255,255,255],
     "outerColor": [116,163,243],
     "uniqueName": "Ecclesia",
+	"uniques": ["[+1 Culture] per [1] social policies adopted",
+		        "Allied City-States provide [Culture] equal to [30]% of what they produce for themselves"],
     "cities": ["Athens","Piraeus","Acharnai","Aphidna","Eleusis","Marathon","Paiania","Lamptrai","Alopeke","Anaphlystos",
 	           "Phaleron","Rhamnous","Kephale","Phrearrhioi","Euonymon","Aixone","Thria","Melite","Phyla","Xypete",
 	           "Thorikos","Sounion","Dekeleia"],

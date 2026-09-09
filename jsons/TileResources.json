@@ -7,6 +7,8 @@
     "food": 1,
     "improvementStats": {"food": 1, "production": 1},
     "improvement": "Pasture",
-    "unique": [],
+    "unique": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles> <with [3] to [6] neighboring [Grassland] tiles>",
+               "Generated on every [26] tiles <in [{Featureless} {Plains}] tiles> <with [3] to [6] neighboring [Plains] tiles>",
+               "Generated on every [40] tiles <in [{Grassland} {Hill}] tiles> <with [2] to [5] neighboring [Grassland] tiles>"],
   }
 ]

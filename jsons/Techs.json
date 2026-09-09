@@ -139,7 +139,7 @@
         "name": "Bronze Working",
         "row": 8,
         "cost": 90,
-        "prerequisites": ["Mining","Archery"],
+        "prerequisites": ["Masonry","Archery"],
       },
       {
         "name": "The Wheel",

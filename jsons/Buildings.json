@@ -55,6 +55,7 @@
 		"food": 2,
 		"production": 1,
 		"requiredTech": "The Wheel",
+		"uniques": ["Must be on [River]"],
 	},
 // Wonders
 	{

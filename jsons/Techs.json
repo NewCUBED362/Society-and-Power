@@ -101,12 +101,6 @@
         "cost": 85,
         "prerequisites": ["Creative Art","Pottery"],
       },
-      {
-        "name": "Sailing",
-        "row": 9,
-        "cost": 85,
-        "prerequisites": ["Fishing"],
-      },
     ]
   },
   {
@@ -119,13 +113,7 @@
         "name": "Writing",
         "row": 1,
         "cost": 90,
-        "prerequisites": ["Code of Law","Pottery"],
-      },
-      {
-        "name": "Bronze Working",
-        "row": 8,
-        "cost": 90,
-        "prerequisites": ["Mining","Archery"],
+        "prerequisites": ["Code of Law"],
       },
       {
         "name": "Masonry",
@@ -148,10 +136,22 @@
     "wonderCost": 210,
     "techs": [
       {
+        "name": "Bronze Working",
+        "row": 8,
+        "cost": 90,
+        "prerequisites": ["Mining","Archery"],
+      },
+      {
         "name": "The Wheel",
         "row": 3,
         "cost": 110,
         "prerequisites": ["Masonry","Bronze Working"],
+      },
+      {
+        "name": "Sailing",
+        "row": 9,
+        "cost": 85,
+        "prerequisites": ["Fishing"],
       }
     ]
   }

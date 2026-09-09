@@ -5,6 +5,7 @@
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": [],
     "food": 1,
+    "improvementStats": {"food": 1, "production": 1},
     "improvement": "Pasture",
     "unique": [],
   }

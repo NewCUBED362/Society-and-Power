@@ -119,5 +119,25 @@
     "cities": ["Yingtian","Beiping","Fuzhou","Guangzhou","Hangzhou","Guilin","Guiyang","Kaifeng","Hankou","Nanchang",
 	           "Jinan","Taiyuan","Chengdu","Yunnan","Nanning","Luzhou","Wuchang","Quanzhou","Changsha","Hangyang",
 	           "Xiangyang","Jingzhou","Xiamen","Luoyang","Lintao","Xining","Yinchuan","Qiongshan","Xi’an","Nuergandusi"],
+  },
+  {
+    "name": "Athens",
+    "leaderName": "Pericles",
+	"favoredReligion": "Christianity",
+	"startBias": ["Grassland"],
+
+    "declaringWar": "It is not my wish to conquer your realm by force, but there is no other way.",
+    "attacked": "You might as well conquer the heaven itself, Hahaha! Now I see whom had you targeted when you were still controlling your bowstrings earlier.",
+    "defeated": "The road ahead is dark, the surrounding pines are dense like walls, the sky and earth are full dark as lacquer.",
+    "introduction": "I'm the Yongle Emperor, those who come in merchant ships are my friends. Is there any future for those who oppose my will?",
+
+    "neutralHello": "How are you, today?",
+    "hateHello": "Oh, it's you?",
+    "tradeRequest": "My friend, do you think you can accept this request?",
+
+    "innerColor": [234,225,157],
+    "outerColor": [9,112,84],
+    "uniqueName": "Greek Athenae",
+    "cities": ["Capital","City1","City2"],
   }
 ]

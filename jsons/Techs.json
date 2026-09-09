@@ -59,7 +59,7 @@
       },
       {
         "name": "Creative Art",
-        "row": 6,
+        "row": 7,
         "cost": 50,
         "prerequisites": ["Fire","Flint Knapping"],
       },

@@ -23,5 +23,9 @@
   {
     "name": "Melee Water",
     "movementType": "Water",
+  },
+  {
+    "name": "Heavy Horseback",
+    "movementType": "Land",
   }
 ]

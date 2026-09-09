@@ -154,5 +154,19 @@
         "prerequisites": ["Fishing"],
       }
     ]
+  },
+  {
+    "columnNumber": 6,
+    "era": "Classical era",
+    "buildingCost": 150,
+    "wonderCost": 260,
+    "techs": [
+      {
+        "name": "Currency",
+        "row": 2,
+        "cost": 120,
+        "prerequisites": ["The Wheel","Writing"],
+      }
+    ]
   }
 ]

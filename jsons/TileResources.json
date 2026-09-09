@@ -16,7 +16,7 @@
   {
     "name": "Sheep",
     "resourceType": "Bonus",
-    "terrainsCanBeFoundOn": ["Hill"],
+    "terrainsCanBeFoundOn": ["Hill","Grassland","Plains","Tundra"],
     "food": 1,
     "improvementStats": {"production": 2},
     "improvement": "Pasture",

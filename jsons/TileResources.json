@@ -67,4 +67,14 @@
     "resourceType": "Strategic",
     "production": 1,
   }
+// Template
+//  {
+//    "name": "Example",
+//    "resourceType": "Bonus",
+//    "terrainsCanBeFoundOn": [],
+//    "food": 1,
+//    "improvementStats": {"gold": 1},
+//    "improvement": "",
+//    "unique": [],
+//  },
 ]

@@ -1,1 +1,11 @@
-
+[
+// Bonus resources 
+  {
+    "name": "Cattle",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": [],
+    "food": 1,
+    "improvement": "Pasture",
+    "unique": [],
+  }
+]

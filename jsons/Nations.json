@@ -139,6 +139,7 @@
     "outerColor": [9,112,84],
     "uniqueName": "Greek Athenae",
     "cities": ["Athens","Piraeus","Acharnai","Aphidna","Eleusis","Marathon","Paiania","Lamptrai","Alopeke","Anaphlystos",
-	           "Phaleron","Rhamnous","Kephale","Phrearrhioi","Euonymon","Aixone","Thria","Melite","Phyla","Xypete"],
+	           "Phaleron","Rhamnous","Kephale","Phrearrhioi","Euonymon","Aixone","Thria","Melite","Phyla","Xypete",
+	           "Thorikos","Sounion","Dekeleia"],
   }
 ]

@@ -76,6 +76,7 @@
     "movement": 2,
     "strength": 30,
     "requiredTech": "Bronze Working",
+	"uniques": ["[+25]% Strength <vs [Heavy Horseback] units>"],
   },
   {
     "name": "Chariot",

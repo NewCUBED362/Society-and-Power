@@ -69,10 +69,9 @@
     "improvementStats": {"gold": 1},
     "improvement": "Plantation",
     "unique": ["Generated with weight [15] <in [Desert] Regions>",
-					"Generated with weight [30] <in [Grassland] Regions>",
-					"Generated with weight [15] <in [Hybrid] Regions>",
-					"Generated near City States with weight [10]",
-					"Doesn't generate naturally <in [Hill] tiles>"],
+			   "Generated with weight [30] <in [Grassland] Regions>",
+			   "Generated with weight [15] <in [Hybrid] Regions>",
+			   "Doesn't generate naturally <in [Hill] tiles>"],
   },
 // Player-made resources 
   {

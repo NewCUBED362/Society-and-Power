@@ -24,5 +24,17 @@
                "Generated on every [20] tiles <in [{Plains} {Hill}] tiles>",
                "Generated on every [24] tiles <in [{Tundra} {Hill}] tiles> <with [1] to [5] neighboring [Tundra] tiles>",
                "Generated on every [45] tiles <in [{Featureless} {Grassland}] tiles> <within [2] tiles of a [Hill] tile>"],
-  }
+  },
+// Luxury resources
+  {
+    "name": "Copper",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": ["Hill"],
+    "production": 1,
+    "improvementStats": {"production": 1},
+    "improvement": "Mine",
+    "unique": ["Generated on every [24] tiles <in [Hill] tiles> <with [2] to [6] neighboring [Hill] tiles>",
+               "Generated on every [32] tiles <within [2] tiles of a [Mountain] tile>",
+               "Doesn't generate naturally <in [Snow] tiles>"],
+  },
 ]

@@ -135,8 +135,8 @@
     "hateHello": "What is it?",
     "tradeRequest": "My friend, does this seem reasonable to you?",
 
-    "innerColor": [234,225,157],
-    "outerColor": [9,112,84],
+    "innerColor": [255,255,255],
+    "outerColor": [116,163,243],
     "uniqueName": "Surrounded by Glory",
     "cities": ["Athens","Piraeus","Acharnai","Aphidna","Eleusis","Marathon","Paiania","Lamptrai","Alopeke","Anaphlystos",
 	           "Phaleron","Rhamnous","Kephale","Phrearrhioi","Euonymon","Aixone","Thria","Melite","Phyla","Xypete",

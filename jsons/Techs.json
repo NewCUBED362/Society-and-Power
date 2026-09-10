@@ -180,5 +180,19 @@
         "prerequisites": ["Bronze Working","The Wheel"],
       }
     ]
+  },
+  {
+    "columnNumber": 7,
+    "era": "Classical era",
+    "buildingCost": 150,
+    "wonderCost": 260,
+    "techs": [
+      {
+        "name": "Iron Working",
+        "row": 8,
+        "cost": 120,
+        "prerequisites": ["Horseback Riding"],
+      },
+    ]
   }
 ]

@@ -124,7 +124,7 @@
     "name": "Athens",
     "leaderName": "Pericles",
 	"favoredReligion": "Christianity",
-	"startBias": ["Grassland"],
+	"startBias": ["Hill","Avoid [Snow]"],
 
     "declaringWar": "This is for the greater good. You will understand... in time.",
     "attacked": "Soldiers are not like trees. When they are destroyed, they are not so easily replaced.",

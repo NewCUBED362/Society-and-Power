@@ -165,7 +165,7 @@
         "name": "Currency",
         "row": 3,
         "cost": 120,
-        "prerequisites": ["The Wheel","Writing"],
+        "prerequisites": ["The Wheel"],
       },
       {
         "name": "Celestial Navigation",
@@ -191,7 +191,7 @@
         "name": "Iron Working",
         "row": 8,
         "cost": 120,
-        "prerequisites": ["Horseback Riding"],
+        "prerequisites": ["Bronze Working"],
       },
     ]
   }

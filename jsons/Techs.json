@@ -163,7 +163,7 @@
     "techs": [
       {
         "name": "Currency",
-        "row": 2,
+        "row": 3,
         "cost": 120,
         "prerequisites": ["The Wheel","Writing"],
       },
@@ -172,6 +172,12 @@
         "row": 9,
         "cost": 120,
         "prerequisites": ["Sailing"],
+      },
+      {
+        "name": "Horseback Riding",
+        "row": 2,
+        "cost": 120,
+        "prerequisites": ["Bronze Working","The Wheel"],
       }
     ]
   }

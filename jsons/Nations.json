@@ -160,7 +160,7 @@
     "tradeRequest": "Would you be interested in a trade agreement with England?",
 
     "innerColor": [255,255,255],
-    "outerColor": [116,163,243],
+    "outerColor": [202,20,20],
     "uniqueName": "Workshop of the World",
     "cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 	           "Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",

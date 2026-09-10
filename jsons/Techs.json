@@ -166,6 +166,12 @@
         "row": 2,
         "cost": 120,
         "prerequisites": ["The Wheel","Writing"],
+      },
+      {
+        "name": "Celestial Navigation",
+        "row": 9,
+        "cost": 120,
+        "prerequisites": ["Sailing"],
       }
     ]
   }

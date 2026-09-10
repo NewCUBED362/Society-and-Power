@@ -62,6 +62,11 @@
 		"gold": 3,
 		"requiredTech": "Sailing",
 	},
+	{
+		"name": "Market",
+		"gold": 3,
+		"requiredTech": "Currency",
+	},
 // Wonders
 	{
 		"name": "Stonehenge",

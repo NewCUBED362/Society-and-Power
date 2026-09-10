@@ -150,10 +150,10 @@
 	"favoredReligion": "Christianity",
 	"startBias": ["Coast"],
 
-    "declaringWar": "This is for the greater good. You will understand... in time.",
-    "attacked": "Soldiers are not like trees. When they are destroyed, they are not so easily replaced.",
-    "defeated": "You may have defeated us, but what we leave behind is woven into the lives of others.",
-    "introduction": "Hello, I am Pericles of Athens and I greet you on behalf of the Democracy. I trust you'll let me conduct my business with these neutral parties?",
+    "declaringWar": "As our protests are in vain, we hereby declare war.",
+    "attacked": "War? We are not amused...",
+    "defeated": "This severe and afflicting loss will not be sustained, and England, thank providence, will ascend again.",
+    "introduction": "Greetings. We are by the Grace of God, Victoria, Queen of the United Kingdom of Great Britain and Ireland. And soon, dare I say, the empire.",
 
     "neutralHello": "Hello.",
     "hateHello": "What is it?",

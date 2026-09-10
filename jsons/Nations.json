@@ -162,6 +162,8 @@
     "innerColor": [255,255,255],
     "outerColor": [202,20,20],
     "uniqueName": "Workshop of the World",
+	"uniques": ["[+2 Science] [in all coastal cities]",
+		        "[+25]% Production when constructing [Production] buildings [in all cities]"],
     "cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 	           "Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 	           "Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton"],

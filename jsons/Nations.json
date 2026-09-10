@@ -143,5 +143,25 @@
     "cities": ["Athens","Piraeus","Acharnai","Aphidna","Eleusis","Marathon","Paiania","Lamptrai","Alopeke","Anaphlystos",
 	           "Phaleron","Rhamnous","Kephale","Phrearrhioi","Euonymon","Aixone","Thria","Melite","Phyla","Xypete",
 	           "Thorikos","Sounion","Dekeleia"],
+  },
+  {
+    "name": "Britian",
+    "leaderName": "Victoria",
+	"favoredReligion": "Christianity",
+	"startBias": ["Coast"],
+
+    "declaringWar": "This is for the greater good. You will understand... in time.",
+    "attacked": "Soldiers are not like trees. When they are destroyed, they are not so easily replaced.",
+    "defeated": "You may have defeated us, but what we leave behind is woven into the lives of others.",
+    "introduction": "Hello, I am Pericles of Athens and I greet you on behalf of the Democracy. I trust you'll let me conduct my business with these neutral parties?",
+
+    "neutralHello": "Hello.",
+    "hateHello": "What is it?",
+    "tradeRequest": "My friend, does this seem reasonable to you?",
+
+    "innerColor": [255,255,255],
+    "outerColor": [116,163,243],
+    "uniqueName": "Workshop of the World",
+    "cities": ["Capital"],
   }
 ]

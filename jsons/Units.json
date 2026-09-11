@@ -85,6 +85,7 @@
     "movement": 2,
     "strength": 28,
     "requiredTech": "The Wheel",
+	"requiredResource": "Horses",
   },
   {
     "name": "Horseman",
@@ -93,6 +94,7 @@
     "movement": 4,
     "strength": 36,
     "requiredTech": "Horseback Riding",
+	"requiredResource": "Horses",
   },
 		
 // Great People

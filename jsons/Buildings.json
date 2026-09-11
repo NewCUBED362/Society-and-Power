@@ -67,6 +67,11 @@
 		"gold": 3,
 		"requiredTech": "Currency",
 	},
+	{
+		"name": "Stable",
+		"production": 3,
+		"requiredTech": "Horseback Riding",
+	},
 // Wonders
 	{
 		"name": "Stonehenge",

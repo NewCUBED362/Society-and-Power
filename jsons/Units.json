@@ -89,9 +89,9 @@
   {
     "name": "Horseman",
     "unitType": "Horseback",
-    "cost": 65,
-    "movement": 2,
-    "strength": 28,
+    "cost": 80,
+    "movement": 4,
+    "strength": 36,
     "requiredTech": "Horseback Riding",
   },
 		

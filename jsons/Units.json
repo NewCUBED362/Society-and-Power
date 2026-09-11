@@ -86,6 +86,14 @@
     "strength": 28,
     "requiredTech": "The Wheel",
   },
+  {
+    "name": "Horseman",
+    "unitType": "Horseback",
+    "cost": 65,
+    "movement": 2,
+    "strength": 28,
+    "requiredTech": "Horseback Riding",
+  },
 		
 // Great People
   {

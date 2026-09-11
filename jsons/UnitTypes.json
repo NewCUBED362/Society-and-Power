@@ -32,5 +32,6 @@
   {
     "name": "Horseback",
     "movementType": "Land",
+    "uniques": ["[+1] Movement <in [Open terrain] tiles>"],
   }
 ]

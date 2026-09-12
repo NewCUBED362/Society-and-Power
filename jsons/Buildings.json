@@ -66,11 +66,14 @@
 		"name": "Market",
 		"gold": 3,
 		"requiredTech": "Currency",
+		"uniques": ["[+1 Happiness] from [Deer] tiles [in this city]",
+                    "[+1 Happiness] from [Furs] tiles [in this city]"],
 	},
 	{
 		"name": "Stable",
 		"production": 3,
 		"requiredTech": "Horseback Riding",
+		"uniques": ["[+1 Production] from [Horses] tiles [in this city]"],
 	},
 // Wonders
 	{

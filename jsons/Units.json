@@ -31,6 +31,7 @@
     "strength": 20,
     "requiredTech": "Flint Knapping",
 	"upgradesTo": "Spearman",
+	"attackSound": "nonmetalhit",
   },
   {
     "name": "Scout",
@@ -38,6 +39,7 @@
     "cost": 30,
     "movement": 3,
     "strength": 10,
+	"attackSound": "nonmetalhit",
   },
   {
     "name": "Slinger",
@@ -50,6 +52,7 @@
     "requiredTech": "Animal Husbandry",
 	"obsoleteTech": "Archery",
 	"upgradesTo": "Archer",
+	"attackSound": "arrow",
   },
   {
     "name": "Archer",
@@ -60,6 +63,7 @@
     "rangedStrength": 25,
     "range": 2,
     "requiredTech": "Archery",
+	"attackSound": "arrow",
   },
   {
 	"name": "Galley",
@@ -68,6 +72,7 @@
 	"movement": 3,
 	"strength": 30,
 	"requiredTech": "Sailing",
+	"attackSound": "nonmetalhit",
   },
   {
     "name": "Spearman",
@@ -78,6 +83,7 @@
     "requiredTech": "Bronze Working",
 	"requiredResource": "Bronze",
 	"uniques": ["[+25]% Strength <vs [Heavy Horseback] units>"],
+	"attackSound": "metalhit",
   },
   {
     "name": "Chariot",
@@ -87,6 +93,7 @@
     "strength": 28,
     "requiredTech": "The Wheel",
 	"requiredResource": "Horses",
+	"attackSound": "horse",
   },
   {
     "name": "Horseman",
@@ -96,6 +103,7 @@
     "strength": 36,
     "requiredTech": "Horseback Riding",
 	"requiredResource": "Horses",
+	"attackSound": "horse",
   },
 		
 // Great People

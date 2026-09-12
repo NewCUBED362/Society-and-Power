@@ -105,6 +105,16 @@
 	"requiredResource": "Horses",
 	"attackSound": "horse",
   },
+  {
+    "name": "Swordsman",
+    "unitType": "Heavy Sword",
+    "cost": 65,
+    "movement": 2,
+    "strength": 30,
+    "requiredTech": "Iron Working",
+	"requiredResource": "Iron",
+	"attackSound": "metalhit",
+  },
 		
 // Great People
   {

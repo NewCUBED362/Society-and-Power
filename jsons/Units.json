@@ -120,7 +120,7 @@
   {
     "name": "Catapult",
     "unitType": "Siege",
-    "cost": 60,
+    "cost": 75,
     "movement": 1,
     "strength": 15,
     "rangedStrength": 25,

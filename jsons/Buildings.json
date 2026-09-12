@@ -87,4 +87,12 @@
 		"uniques": ["Free [Great Prophet] appears"],
 		"quote": "'Can you imagine trying to talk six hundred people into helping you drag a fifty-ton stone eighteen miles across the countryside and muscle it into an upright position, and then saying, ‘Right, lads! Another twenty like that and then we can party!' - Bill Bryson",
 	},
+	{
+		"name": "Colossus",
+		"isWonder": true,
+		"gold": 3,
+		"requiredTech": "Sailing",
+		"uniques": ["[+25]% [Gold] from Trade Routes","Can only be built <in [Coastal] tiles>"],
+		"quote": "'At Rhodes was set up a Colossus of seventy cubits high, representing the Sun. The artist expended as much bronze on it as seemed likely to create a dearth in the mines.' - Philo of Byzantium",
+	},
 ]

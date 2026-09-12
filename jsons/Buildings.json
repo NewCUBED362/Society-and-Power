@@ -95,4 +95,12 @@
 		"uniques": ["[+25]% [Gold] from Trade Routes","Can only be built <in [Coastal] tiles>"],
 		"quote": "'At Rhodes was set up a Colossus of seventy cubits high, representing the Sun. The artist expended as much bronze on it as seemed likely to create a dearth in the mines.' - Philo of Byzantium",
 	},
+	{
+		"name": "Statue of Zeus",
+		"isWonder": true,
+		"gold": 3,
+		"requiredTech": "Iron Working",
+		"uniques": ["[2] free [Spearman] units appear","Provides [2] [Bronze]"],
+		"quote": "'Upon the head of the god was an olive crown; in his right hand he bore a winged figure of Victory.' - Samuel Augustus Mitchell",
+	},
 ]

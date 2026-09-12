@@ -117,6 +117,17 @@
 	"attackSound": "metalhit",
 	"uniques": ["[+25]% Strength <vs [Sword] units>"],
   },
+  {
+    "name": "Catapult",
+    "unitType": "Siege",
+    "cost": 60,
+    "movement": 1,
+    "strength": 15,
+    "rangedStrength": 25,
+    "range": 2,
+    "requiredTech": "Mathematics",
+	"attackSound": "throw",
+  },
 		
 // Great People
   {

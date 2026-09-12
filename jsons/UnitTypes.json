@@ -12,6 +12,10 @@
     "movementType": "Land",
   },
   {
+    "name": "Heavy Sword",
+    "movementType": "Land",
+  },
+  {
     "name": "Recon",
     "movementType": "Land",
   	"uniques": ["Ignores terrain cost"]

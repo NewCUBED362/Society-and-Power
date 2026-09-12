@@ -82,7 +82,8 @@
     "strength": 30,
     "requiredTech": "Bronze Working",
 	"requiredResource": "Bronze",
-	"uniques": ["[+25]% Strength <vs [Heavy Horseback] units>"],
+	"uniques": ["[+18]% Strength <vs [Heavy Horseback] units>",
+	            "[+25]% Strength <vs [Horseback] units>"],
 	"attackSound": "metalhit",
   },
   {
@@ -108,12 +109,13 @@
   {
     "name": "Swordsman",
     "unitType": "Heavy Sword",
-    "cost": 65,
+    "cost": 90,
     "movement": 2,
-    "strength": 30,
+    "strength": 35,
     "requiredTech": "Iron Working",
 	"requiredResource": "Iron",
 	"attackSound": "metalhit",
+	"uniques": ["[+25]% Strength <vs [Sword] units>"],
   },
 		
 // Great People

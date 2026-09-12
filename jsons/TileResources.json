@@ -122,6 +122,7 @@
     "terrainsCanBeFoundOn": ["Grassland","Plains","Desert","Tundra","Snow","Hill","Marsh"],
 	"production": 1,
 	"improvementStats": {"production": 1},
+	"revealedBy": "Iron Working",
     "improvement": "Mine",
 	"uniques": ["Guaranteed with Strategic Balance resource option",
 					"Generated with weight [45] <in [{Featureless} {Tundra}] tiles>",

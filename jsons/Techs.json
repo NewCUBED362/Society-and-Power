@@ -145,7 +145,7 @@
         "name": "The Wheel",
         "row": 3,
         "cost": 110,
-        "prerequisites": ["Masonry","Bronze Working"],
+        "prerequisites": ["Masonry"],
       },
       {
         "name": "Sailing",

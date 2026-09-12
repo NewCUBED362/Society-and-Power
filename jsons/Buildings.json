@@ -61,6 +61,7 @@
 		"name": "Dock",
 		"gold": 3,
 		"requiredTech": "Sailing",
+		"uniques": ["Can only be built <in [Coastal] tiles>"],
 	},
 	{
 		"name": "Market",

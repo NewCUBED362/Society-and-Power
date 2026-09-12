@@ -41,5 +41,6 @@
   {
     "name": "Siege",
     "movementType": "Land",
+    "uniques": "[-50]% Strength <vs [Non-City] units> <when attacking>"],
   },
 ]

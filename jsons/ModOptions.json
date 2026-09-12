@@ -9,7 +9,7 @@
         "cityStrengthFromTechsMultiplier": 0,
         "cityStrengthFromTechsExponent": 0,
         "cityStrengthFromTechsFullMultiplier": 0,
-        "cityStrengthFromGarrison": 10,
+        "cityStrengthFromGarrison": 3,
         "baseCityBombardRange": 1,
         "cityWorkRange": 5,
         "cityExpandRange": 7,

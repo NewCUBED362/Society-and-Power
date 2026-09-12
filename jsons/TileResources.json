@@ -116,6 +116,15 @@
 	"majorDepositAmount": {"sparse": 4, "default": 4, "abundant": 6},
 	"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
   },
+  {
+    "name": "Iron",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": [],
+	"production": 1,
+	"improvementStats": {"production": 2},
+    "improvement": "Mine",
+	"uniques": [],
+  },
 // Player-made resources 
   {
     "name": "Bronze",

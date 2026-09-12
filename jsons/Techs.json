@@ -162,7 +162,7 @@
     "wonderCost": 260,
     "techs": [
       {
-        "name": "Currency",
+        "name": "Mathematics",
         "row": 3,
         "cost": 120,
         "prerequisites": ["The Wheel"],
@@ -187,6 +187,12 @@
     "buildingCost": 150,
     "wonderCost": 260,
     "techs": [
+        {
+        "name": "Currency",
+        "row": 3,
+        "cost": 120,
+        "prerequisites": ["Mathematics"],
+      },
       {
         "name": "Iron Working",
         "row": 8,

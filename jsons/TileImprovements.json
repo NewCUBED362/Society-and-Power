@@ -55,6 +55,15 @@
 		"uniques": ["Does not need removal of [Forest]","Does not need removal of [Jungle]","Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "C"
 	},
+	{
+		"name": "Lumber mill",
+		"turnsToBuild": 7,
+		"terrainsCanBeBuiltOn": ["Forest"],
+		"production": 1,
+		"techRequired": "Construction",
+		"uniques": ["Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "M"
+	},
 // Misc
   	{
 		"name": "City center",

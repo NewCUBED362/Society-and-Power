@@ -206,5 +206,19 @@
         "prerequisites": ["Bronze Working"],
       },
     ]
+  },
+  {
+    "columnNumber": 8,
+    "era": "Classical era",
+    "buildingCost": 200,
+    "wonderCost": 330,
+    "techs": [
+      {
+        "name": "Construction",
+        "row": 2,
+        "cost": 180,
+        "prerequisites": ["Currency"],
+      },
+    ]
   }
 ]

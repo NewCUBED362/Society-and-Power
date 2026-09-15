@@ -187,7 +187,13 @@
     "buildingCost": 150,
     "wonderCost": 260,
     "techs": [
-        {
+      {
+        "name": "Philosophy",
+        "row": 1,
+        "cost": 120,
+        "prerequisites": ["Writing","Mathematics"],
+      },
+      {
         "name": "Currency",
         "row": 3,
         "cost": 120,

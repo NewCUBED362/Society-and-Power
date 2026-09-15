@@ -76,6 +76,11 @@
 		"requiredTech": "Horseback Riding",
 		"uniques": ["[+1 Production] from [Horses] tiles [in this city]"],
 	},
+	{
+		"name": "School",
+		"science": 3,
+		"requiredTech": "Philosophy",
+	},
 // Wonders
 	{
 		"name": "Stonehenge",

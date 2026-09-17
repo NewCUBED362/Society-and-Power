@@ -220,6 +220,12 @@
         "prerequisites": ["Currency"],
       },
       {
+        "name": "Hydrology",
+        "row": 4,
+        "cost": 200,
+        "prerequisites": ["Currency","Philosophy"],
+      },
+      {
         "name": "Shipbuilding",
         "row": 9,
         "cost": 200,

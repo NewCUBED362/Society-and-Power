@@ -44,9 +44,7 @@
     "uniqueName": "Monument Builders",
 	"uniques": ["May buy [Worker] units with [Faith] [in all cities]",
 	            "[+30]% Production when constructing [Wonder] buildings [in all cities]"],
-    "cities": ["Xi'an","Beijing","Taiyuan","Chengdu","Jiaodong","Changsha","Longxi","Guangzhou","Handan","Shenyang","Shanghai",
-		       "Wuhan","Yiyang","Xiurong","Chen","Xingzhou","Quxian","Nanjing","Langfang","Linzi","Jiujiang",
-		       "Kaifeng","Xuzhou","Hefei","Xinzheng","Lu’an"],
+    "cities": ["Xianyang","Handan","Linzi","Chengdu","Daliang","Ying","Xinzheng","Shouchun","Jinyang","Luoyang"],
   },
   {
     "name": "Maurya",

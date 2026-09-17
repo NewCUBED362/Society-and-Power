@@ -185,7 +185,10 @@
 
     "innerColor": [255,255,255],
     "outerColor": [1,42,108],
-    "uniqueName": "Frontier Expansion",
+    "uniqueName": "Manifest Destiny",
+	"uniques": ["[+1] Sight <for [{Military} {Land}] units>",
+		        "[-50]% Gold cost of acquiring tiles [in all cities]",
+		        "[+1 Gold, +1 Production] from [resource] tiles [in all cities]"],
     "cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			   "Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			   "Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh"],

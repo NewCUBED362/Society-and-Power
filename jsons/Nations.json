@@ -174,10 +174,10 @@
 	"favoredReligion": "Christianity",
 	"startBias": ["Hill"],
 
-    "declaringWar": "As our protests are in vain, we hereby declare war.",
-    "attacked": "War? We are not amused...",
-    "defeated": "This severe and afflicting loss will not be sustained, and England, thank providence, will ascend again.",
-    "introduction": "Greetings. We are by the Grace of God, Victoria, Queen of the United Kingdom of Great Britain and Ireland. And soon, dare I say, the empire.",
+    "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+    "attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+    "defeated": "The day...is yours. I hope you will be merciful in your triumph.",
+    "introduction": "The people of the United States of America welcome you.",
 
     "neutralHello": "I bid you welcome...",
     "hateHello": "What is it!?",

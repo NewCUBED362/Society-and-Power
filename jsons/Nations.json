@@ -179,9 +179,9 @@
     "defeated": "The day...is yours. I hope you will be merciful in your triumph.",
     "introduction": "The people of the United States of America welcome you.",
 
-    "neutralHello": "I bid you welcome...",
-    "hateHello": "What is it!?",
-    "tradeRequest": "Would you be interested in a trade agreement with England?",
+    "neutralHello": "Good day.",
+    "hateHello": "Well?",
+    "tradeRequest": "Is the following trade of interest to you?",
 
     "innerColor": [255,255,255],
     "outerColor": [1,42,108],

@@ -184,7 +184,7 @@
     "tradeRequest": "Would you be interested in a trade agreement with England?",
 
     "innerColor": [255,255,255],
-    "outerColor": [202,20,20],
+    "outerColor": [1,42,108],
     "uniqueName": "Frontier Expansion",
     "cities": ["Capital"],
   }

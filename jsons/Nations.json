@@ -167,5 +167,25 @@
     "cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
 	           "Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
 	           "Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton"],
+  },
+  {
+    "name": "America",
+    "leaderName": "George Washington",
+	"favoredReligion": "Christianity",
+	"startBias": ["Hill"],
+
+    "declaringWar": "As our protests are in vain, we hereby declare war.",
+    "attacked": "War? We are not amused...",
+    "defeated": "This severe and afflicting loss will not be sustained, and England, thank providence, will ascend again.",
+    "introduction": "Greetings. We are by the Grace of God, Victoria, Queen of the United Kingdom of Great Britain and Ireland. And soon, dare I say, the empire.",
+
+    "neutralHello": "I bid you welcome...",
+    "hateHello": "What is it!?",
+    "tradeRequest": "Would you be interested in a trade agreement with England?",
+
+    "innerColor": [255,255,255],
+    "outerColor": [202,20,20],
+    "uniqueName": "Frontier Expansion",
+    "cities": ["Capital"],
   }
 ]

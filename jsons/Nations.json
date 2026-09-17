@@ -192,5 +192,18 @@
     "cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
 			   "Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
 			   "Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh"],
+  },
+// City-States
+  {
+    "name": "Assyria",
+	"cityStateType": "Expansionist",
+
+    "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
+    "attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
+    "defeated": "The day...is yours. I hope you will be merciful in your triumph.",
+
+    "innerColor": [97,191,34],
+    "outerColor": [0,0,0],
+    "cities": ["Assur"],
   }
 ]

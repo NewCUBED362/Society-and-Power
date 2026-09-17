@@ -230,6 +230,7 @@
         "row": 9,
         "cost": 200,
         "prerequisites": ["Celestial Navigation"],
+        "uniques": ["Enables embarkation for land units"],
       },
     ]
   }

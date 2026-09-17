@@ -1,8 +1,9 @@
 [
   {
     "name": "Expansionist",
-    "friendBonusUniques": "",
-    "allyBonusUniques": "",
+    "friendBonusUniques": ["[+2 Food] [in capital]"],
+    "allyBonusUniques": ["[+2 Food] [in capital]",
+                         "[+1 Food] [in all cities]"],
     "color": [97,191,34],
   }
 ]

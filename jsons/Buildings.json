@@ -86,6 +86,11 @@
 		"food": 1,
 		"requiredTech": "Hydrology",
 	},
+	{
+		"name": "Sawmill",
+		"production": 2,
+		"requiredTech": "Machinery",
+	},
 // Wonders
 	{
 		"name": "Stonehenge",

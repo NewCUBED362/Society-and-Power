@@ -10,5 +10,9 @@
   {
     "name": "Classical era",
     "startingMilitaryUnit": "Warrior",
+  },
+  {
+    "name": "Mediaeval era",
+    "startingMilitaryUnit": "Warrior",
   }
 ]

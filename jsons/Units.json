@@ -128,6 +128,17 @@
     "requiredTech": "Mathematics",
 	"attackSound": "throw",
   },
+  {
+    "name": "Crossbowman",
+    "unitType": "Archery",
+    "cost": 60,
+    "movement": 1,
+    "strength": 15,
+    "rangedStrength": 25,
+    "range": 2,
+    "requiredTech": "Machinery",
+	"attackSound": "arrow",
+  },
 		
 // Great People
   {

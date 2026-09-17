@@ -216,8 +216,14 @@
       {
         "name": "Construction",
         "row": 2,
-        "cost": 180,
+        "cost": 200,
         "prerequisites": ["Currency"],
+      },
+      {
+        "name": "Shipbuilding",
+        "row": 9,
+        "cost": 200,
+        "prerequisites": ["Celestial Navigation"],
       },
     ]
   }

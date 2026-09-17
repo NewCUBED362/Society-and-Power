@@ -81,6 +81,11 @@
 		"science": 3,
 		"requiredTech": "Philosophy",
 	},
+	{
+		"name": "Aqueduct",
+		"food": 1,
+		"requiredTech": "Hydrology",
+	},
 // Wonders
 	{
 		"name": "Stonehenge",

@@ -23,6 +23,8 @@
   {
     "name": "Archery",
     "movementType": "Land",
+    "uniques": ["[-30]% Strength <vs cities> <when attacking>",
+                "[-30]% Strength <vs [Water] units> <when attacking>"],
   },
   {
     "name": "Melee Water",

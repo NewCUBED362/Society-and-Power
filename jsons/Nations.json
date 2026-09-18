@@ -243,12 +243,12 @@
     "cities": ["Auckland"],
   },
   {
-    "name": "The Dutch",
+    "name": "The Belgians",
 	"cityStateType": "Industrial",
 
     "declaringWar": "You leave us no choice. War it must be.",
     "attacked": "Very well, this shall not be forgotten.",
-    "defeated": "Perhaps, in another world, we could have been friends...",
+    "defeated": "I guess you weren't here for the sprouts after all...",
 
     "innerColor": [255,129,18],
     "outerColor": [0,0,0],
@@ -260,7 +260,7 @@
 
     "declaringWar": "You leave us no choice. War it must be.",
     "attacked": "Very well, this shall not be forgotten.",
-    "defeated": "Perhaps, in another world, we could have been friends...",
+    "defeated": "We... Defeated? No... We had so much work to do!",
 
     "innerColor": [255,129,18],
     "outerColor": [0,0,0],

@@ -198,9 +198,9 @@
     "name": "The Assyrians",
 	"cityStateType": "Expansionist",
 
-    "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
-    "attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
-    "defeated": "The day...is yours. I hope you will be merciful in your triumph.",
+    "declaringWar": "I fear there is no other choice but to remove you from this world!",
+    "attacked": "You lowlife! You will regret this!",
+    "defeated": "You have bested my forces... Perhaps it was I that underestimated you.",
 
     "innerColor": [97,191,34],
     "outerColor": [0,0,0],

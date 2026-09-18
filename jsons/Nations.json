@@ -238,7 +238,7 @@
     "attacked": "Very well, this shall not be forgotten.",
     "defeated": "Perhaps, in another world, we could have been friends...",
 
-    "innerColor": [97,191,34],
+    "innerColor": [255,129,18],
     "outerColor": [0,0,0],
     "cities": ["Auckland"],
   }

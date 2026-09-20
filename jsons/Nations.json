@@ -227,7 +227,7 @@
 
     "innerColor": [97,191,34],
     "outerColor": [0,0,0],
-    "cities": ["Assur"],
+    "cities": ["Assur","Dur-Sharrukin","Nineveh","Harran"],
   },
   {
     "name": "The Etruscans",

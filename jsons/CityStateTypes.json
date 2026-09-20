@@ -1,9 +1,9 @@
 [
   {
     "name": "Expansionist",
-    "friendBonusUniques": ["[+2 Food] [in capital]"],
-    "allyBonusUniques": ["[+2 Food] [in capital]",
-                         "[+1 Food] [in all cities]"],
+    "friendBonusUniques": ["[+3 Food] [in capital]"],
+    "allyBonusUniques": ["[+3 Food] [in capital]",
+                         "[+2 Food] [in all cities]"],
     "color": [97,191,34],
   },
   {
@@ -11,6 +11,13 @@
     "friendBonusUniques": ["[+2 Production] [in capital]"],
     "allyBonusUniques": ["[+2 Production] [in capital]",
                          "[+1 Production] [in all cities]"],
+    "color": [255,129,18],
+  },
+  {
+    "name": "Cultured",
+    "friendBonusUniques": ["[+3 Culture] [in capital]"],
+    "allyBonusUniques": ["[+3 Culture] [in capital]",
+                         "[+2 Culture] [in all cities]"],
     "color": [255,129,18],
   }
 ]

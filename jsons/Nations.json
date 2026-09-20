@@ -195,14 +195,13 @@
   },
   {
     "name": "The Aztecs",
-    "leaderName": "Montezuma",
-	"favoredReligion": "Christianity",
+    "leaderName": "Montezuma I",
 	"startBias": ["Jungle"],
 
-    "declaringWar": "Your wanton aggression leaves us no choice. Prepare for war!",
-    "attacked": "You have mistaken our love of peace for weakness. You shall regret this!",
-    "defeated": "The day...is yours. I hope you will be merciful in your triumph.",
-    "introduction": "The people of the United States of America welcome you.",
+    "declaringWar": "Now we will see if you are cowards or warriors!",
+    "attacked": "Your soldiers will die on the battlefield or upon an altar. It makes no difference to Huitzilopochtli.",
+    "defeated": "Huitzilopochtli forgive our weakness...my weakness. I was not strong enough to serve you.",
+    "introduction": "I am the scowling lord of Tenochtitlan. The tlatoani. Who comes before me? A warrior or a coward?",
 
     "neutralHello": "Good day.",
     "hateHello": "Well?",

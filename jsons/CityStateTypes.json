@@ -18,6 +18,6 @@
     "friendBonusUniques": ["[+3 Culture] [in capital]"],
     "allyBonusUniques": ["[+3 Culture] [in capital]",
                          "[+2 Culture] [in all cities]"],
-    "color": [255,129,18],
+    "color": [109,0,205],
   }
 ]

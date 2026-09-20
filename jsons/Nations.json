@@ -210,7 +210,9 @@
     "innerColor": [120,0,0],
     "outerColor": [125,236,227],
     "uniqueName": "Legend of the Five Suns",
-    "cities": ["Capital"],
+    "cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
+		       "Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
+		       "Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac"],
   },
 // City-States
   {

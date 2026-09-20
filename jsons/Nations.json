@@ -312,5 +312,17 @@
     "innerColor": [255,129,18],
     "outerColor": [0,0,0],
     "cities": ["Chan Chan"],
+  },
+  {
+    "name": "The Arrernte",
+	"cityStateType": "Cultured",
+
+    "declaringWar": "Resistance is futile! You cannot hope to stand against the mighty Mparntwe empire. If you will not surrender immediately, then prepare for war!",
+    "attacked": "Declare war on me?!? You can't, because I declare war on you first!",
+    "defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
+
+    "innerColor": [255,129,18],
+    "outerColor": [0,0,0],
+    "cities": ["Mparntwe"],
   }
 ]

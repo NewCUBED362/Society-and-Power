@@ -305,9 +305,9 @@
     "name": "The Chimú",
 	"cityStateType": "Cultured",
 
-    "declaringWar": "You are at war with the army of Champa. Do you hear the sounds of the rallying drums? Or perhaps the thunderous roars of the war elephants? Our army is rushing out to battle!",
-    "attacked": "I have waited for this day for a long time. The day the war begins will also be the day of your destruction.",
-    "defeated": "You thought you have defeated me? I will ascend to heaven to become the sacred spirit of the rivers and mountains, never to submit!",
+    "declaringWar": "Resistance is futile! You cannot hope to stand against the mighty Chimor empire. If you will not surrender immediately, then prepare for war!",
+    "attacked": "Declare war on me?!? You can't, because I declare war on you first!",
+    "defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
 
     "innerColor": [255,129,18],
     "outerColor": [0,0,0],

@@ -210,6 +210,8 @@
     "innerColor": [120,0,0],
     "outerColor": [125,236,227],
     "uniqueName": "Legend of the Five Suns",
+	"uniques": ["Earn [85]% of killed [Military] unit's [Strength] as [Faith]",
+	            "[+1 Faith, +1 Happiness] from [Luxury resource] tiles [in all cities]"],
     "cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
 		       "Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
 		       "Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac"],

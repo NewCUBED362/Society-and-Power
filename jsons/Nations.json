@@ -207,9 +207,9 @@
     "hateHello": "What do you want?",
     "tradeRequest": "Accept this agreement or suffer the consequences.",
 
-    "innerColor": [255,255,255],
-    "outerColor": [1,42,108],
-    "uniqueName": "Manifest Destiny",
+    "innerColor": [120,0,0],
+    "outerColor": [125,236,227],
+    "uniqueName": "Legend of the Five Suns",
     "cities": ["Capital"],
   },
 // City-States

@@ -203,9 +203,9 @@
     "defeated": "Huitzilopochtli forgive our weakness...my weakness. I was not strong enough to serve you.",
     "introduction": "I am the scowling lord of Tenochtitlan. The tlatoani. Who comes before me? A warrior or a coward?",
 
-    "neutralHello": "Good day.",
-    "hateHello": "Well?",
-    "tradeRequest": "Is the following trade of interest to you?",
+    "neutralHello": "Welcome, friend.",
+    "hateHello": "What do you want?",
+    "tradeRequest": "Accept this agreement or suffer the consequences.",
 
     "innerColor": [255,255,255],
     "outerColor": [1,42,108],

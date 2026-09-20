@@ -275,7 +275,7 @@
 
     "innerColor": [255,129,18],
     "outerColor": [0,0,0],
-    "cities": ["Brussels"],
+    "cities": ["Brussels","Antwerp","Ghent"],
   },
   {
     "name": "The Argentinians",

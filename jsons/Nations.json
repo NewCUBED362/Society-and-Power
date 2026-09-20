@@ -297,7 +297,7 @@
     "attacked": "I have waited for this day for a long time. The day the war begins will also be the day of your destruction.",
     "defeated": "You thought you have defeated me? I will ascend to heaven to become the sacred spirit of the rivers and mountains, never to submit!",
 
-    "innerColor": [255,129,18],
+    "innerColor": [109,0,205],
     "outerColor": [0,0,0],
     "cities": ["Cham"],
   },
@@ -309,7 +309,7 @@
     "attacked": "Declare war on me?!? You can't, because I declare war on you first!",
     "defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
 
-    "innerColor": [255,129,18],
+    "innerColor": [109,0,205],
     "outerColor": [0,0,0],
     "cities": ["Chan Chan"],
   },
@@ -321,7 +321,7 @@
     "attacked": "We will mobilize every means of resistance to stop this transgression against our nation!",
     "defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
 
-    "innerColor": [255,129,18],
+    "innerColor": [109,0,205],
     "outerColor": [0,0,0],
     "cities": ["Mparntwe"],
   }

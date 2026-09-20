@@ -288,5 +288,17 @@
     "innerColor": [255,129,18],
     "outerColor": [0,0,0],
     "cities": ["Buenos Aires"],
+  },
+  {
+    "name": "The Champa",
+	"cityStateType": "Cultured",
+
+    "declaringWar": "You leave us no choice. War it must be.",
+    "attacked": "Very well, this shall not be forgotten.",
+    "defeated": "We... Defeated? No... We had so much work to do!",
+
+    "innerColor": [255,129,18],
+    "outerColor": [0,0,0],
+    "cities": ["Cham"],
   }
 ]

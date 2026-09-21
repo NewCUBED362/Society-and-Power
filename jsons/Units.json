@@ -63,6 +63,8 @@
     "rangedStrength": 25,
     "range": 2,
     "requiredTech": "Archery",
+	"obsoleteTech": "Machinery",
+	"upgradesTo": "Crossbowman",
 	"attackSound": "arrow",
   },
   {
@@ -138,6 +140,17 @@
     "range": 2,
     "requiredTech": "Machinery",
 	"attackSound": "arrow",
+  },
+  {
+    "name": "Pikeman",
+    "unitType": "Sword",
+    "cost": 200,
+    "movement": 2,
+    "strength": 45,
+    "requiredTech": "Military Tactics",
+	"uniques": ["[+18]% Strength <vs [Heavy Horseback] units>",
+	            "[+25]% Strength <vs [Horseback] units>"],
+	"attackSound": "metalhit",
   },
 		
 // Great People

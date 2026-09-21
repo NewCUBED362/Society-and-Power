@@ -84,6 +84,7 @@
     "strength": 30,
     "requiredTech": "Bronze Working",
 	"requiredResource": "Bronze",
+	"upgradesTo": "Pikeman",
 	"uniques": ["[+18]% Strength <vs [Heavy Horseback] units>",
 	            "[+25]% Strength <vs [Horseback] units>"],
 	"attackSound": "metalhit",

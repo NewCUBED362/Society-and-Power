@@ -95,6 +95,11 @@
 		"requiredTech": "Machinery",
 		"uniques": ["[+1 Production] from [Forest] tiles [in this city]"]
 	},
+	{
+		"name": "Temple",
+		"faith": 3,
+		"requiredTech": "Theology",
+	},
 // Wonders
 	{
 		"name": "Stonehenge",

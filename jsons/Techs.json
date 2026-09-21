@@ -246,6 +246,12 @@
         "cost": 260,
         "prerequisites": ["Construction"],
       },
+      {
+        "name": "Theology",
+        "row": 7,
+        "cost": 260,
+        "prerequisites": ["Philosophy"],
+      }
     ]
   }
 ]

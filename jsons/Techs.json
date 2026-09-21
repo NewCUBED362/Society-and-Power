@@ -86,19 +86,19 @@
       {
         "name": "Mining",
         "row": 2,
-        "cost": 85,
+        "cost": 50,
         "prerequisites": ["Pottery","Animal Husbandry"],
       },
       {
         "name": "Archery",
         "row": 8,
-        "cost": 85,
+        "cost": 50,
         "prerequisites": ["Creative Art","Animal Husbandry"],
       }
       {
         "name": "Code of Law",
         "row": 6,
-        "cost": 85,
+        "cost": 50,
         "prerequisites": ["Creative Art","Pottery"],
       },
     ]
@@ -112,19 +112,19 @@
       {
         "name": "Writing",
         "row": 1,
-        "cost": 90,
+        "cost": 80,
         "prerequisites": ["Code of Law"],
       },
       {
         "name": "Masonry",
         "row": 2,
-        "cost": 90,
+        "cost": 80,
         "prerequisites": ["Mining"],
       },
       {
         "name": "Irrigation",
         "row": 4,
-        "cost": 90,
+        "cost": 80,
         "prerequisites": ["Trapping","Code of Law"],
       },
     ]
@@ -138,19 +138,19 @@
       {
         "name": "Bronze Working",
         "row": 8,
-        "cost": 90,
+        "cost": 80,
         "prerequisites": ["Masonry","Archery"],
       },
       {
         "name": "The Wheel",
         "row": 3,
-        "cost": 110,
+        "cost": 80,
         "prerequisites": ["Masonry"],
       },
       {
         "name": "Sailing",
         "row": 9,
-        "cost": 85,
+        "cost": 80,
         "prerequisites": ["Fishing"],
       }
     ]
@@ -190,19 +190,19 @@
       {
         "name": "Philosophy",
         "row": 1,
-        "cost": 120,
+        "cost": 200,
         "prerequisites": ["Writing","Mathematics"],
       },
       {
         "name": "Currency",
         "row": 3,
-        "cost": 120,
+        "cost": 200,
         "prerequisites": ["Mathematics"],
       },
       {
         "name": "Iron Working",
         "row": 8,
-        "cost": 120,
+        "cost": 200,
         "prerequisites": ["Bronze Working"],
       },
     ]
@@ -243,13 +243,13 @@
       {
         "name": "Machinery",
         "row": 2,
-        "cost": 260,
+        "cost": 300,
         "prerequisites": ["Construction"],
       },
       {
         "name": "Theology",
         "row": 7,
-        "cost": 260,
+        "cost": 300,
         "prerequisites": ["Philosophy"],
       }
     ]

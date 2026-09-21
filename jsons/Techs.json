@@ -244,13 +244,19 @@
         "name": "Machinery",
         "row": 2,
         "cost": 300,
-        "prerequisites": ["Construction"],
+        "prerequisites": ["Construction","Hydrology"],
       },
       {
         "name": "Theology",
         "row": 7,
         "cost": 300,
         "prerequisites": ["Philosophy"],
+      },
+      {
+        "name": "Military Tactics",
+        "row": 8,
+        "cost": 300,
+        "prerequisites": ["Iron Working","Philosophy"],
       }
     ]
   }

@@ -101,7 +101,7 @@
 		"requiredTech": "Theology",
 	},
 	{
-		"name": "Ampitheatre",
+		"name": "Amphitheater",
 		"culture": 3,
 		"requiredTech": "Engineering",
 	},

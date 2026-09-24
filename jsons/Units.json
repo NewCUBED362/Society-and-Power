@@ -153,6 +153,15 @@
 	            "[+25]% Strength <vs [Horseback] units>"],
 	"attackSound": "metalhit",
   },
+  {
+    "name": "Footman",
+    "unitType": "Sword",
+    "cost": 175,
+    "movement": 2,
+    "strength": 45,
+    "requiredTech": "Military Tactics",
+	"attackSound": "metalhit",
+  },
 		
 // Great People
   {

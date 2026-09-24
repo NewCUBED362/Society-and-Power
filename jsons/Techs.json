@@ -168,6 +168,12 @@
         "prerequisites": ["The Wheel"],
       },
       {
+        "name": "Engineering",
+        "row": 6,
+        "cost": 120,
+        "prerequisites": ["Bronze Working"],
+      },
+      {
         "name": "Celestial Navigation",
         "row": 9,
         "cost": 120,
@@ -197,7 +203,7 @@
         "name": "Currency",
         "row": 3,
         "cost": 200,
-        "prerequisites": ["Mathematics"],
+        "prerequisites": ["Mathematics","Engineering"],
       },
       {
         "name": "Iron Working",
@@ -256,7 +262,7 @@
         "name": "Military Tactics",
         "row": 8,
         "cost": 300,
-        "prerequisites": ["Iron Working","Philosophy"],
+        "prerequisites": ["Shipbuilding"],
       }
     ]
   }

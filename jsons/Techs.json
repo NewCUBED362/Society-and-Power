@@ -265,5 +265,19 @@
         "prerequisites": ["Shipbuilding"],
       }
     ]
+  },
+  {
+    "columnNumber": 10,
+    "era": "Medieval era",
+    "buildingCost": 260,
+    "wonderCost": 400,
+    "techs": [
+      {
+        "name": "Drama",
+        "row": 6,
+        "cost": 300,
+        "prerequisites": ["Theology"],
+      }
+    ]
   }
 ]

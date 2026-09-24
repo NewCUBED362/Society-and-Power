@@ -132,4 +132,12 @@
 		"uniques": ["[2] free [Spearman] units appear","Provides [2] [Bronze]"],
 		"quote": "'Upon the head of the god was an olive crown; in his right hand he bore a winged figure of Victory.' - Samuel Augustus Mitchell",
 	},
+	{
+		"name": "The Pyramids",
+		"isWonder": true,
+		"culture": 4,
+		"requiredTech": "Creative Art",
+		"uniques": ["Can build [all] improvements at a [+25]% rate","[1] free [Worker] units appear"],
+		"quote": "'From the heights of these pyramids, forty centuries look down on us.' - Napoleon Bonaparte",
+	},
 ]

@@ -127,6 +127,12 @@
         "cost": 80,
         "prerequisites": ["Trapping","Code of Law"],
       },
+      {
+        "name": "Sailing",
+        "row": 9,
+        "cost": 80,
+        "prerequisites": ["Fishing"],
+      }
     ]
   },
   {
@@ -146,12 +152,6 @@
         "row": 3,
         "cost": 80,
         "prerequisites": ["Masonry"],
-      },
-      {
-        "name": "Sailing",
-        "row": 9,
-        "cost": 80,
-        "prerequisites": ["Fishing"],
       }
     ]
   },
@@ -178,6 +178,7 @@
         "row": 9,
         "cost": 120,
         "prerequisites": ["Sailing"],
+        "uniques": ["Enables embarkation for land units"],
       },
       {
         "name": "Horseback Riding",
@@ -236,7 +237,6 @@
         "row": 9,
         "cost": 200,
         "prerequisites": ["Celestial Navigation"],
-        "uniques": ["Enables embarkation for land units"],
       },
     ]
   },

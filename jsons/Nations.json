@@ -361,5 +361,17 @@
     "innerColor": [0,79,206],
     "outerColor": [0,0,0],
     "cities": ["Wiryeseong"],
+  },
+  {
+    "name": "The Harappans",
+	"cityStateType": "Scientific",
+
+    "declaringWar": "Your territory could be much improved under Harappan rule. Best I see it through.",
+    "attacked": "Harappa does not fear war. The most you can do is slow our rightful advance.",
+    "defeated": "You learned my own lessons far too well. I instructed you in my own demise.",
+
+    "innerColor": [0,79,206],
+    "outerColor": [0,0,0],
+    "cities": ["Harappa"],
   }
 ]

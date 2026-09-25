@@ -216,6 +216,25 @@
 		       "Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
 		       "Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac"],
   },
+  {
+    "name": "Babylon",
+    "leaderName": "Nebuchadnezzar II",
+	"startBias": ["Avoid [Tundra]"],
+
+    "declaringWar": "Now we will see if you are cowards or warriors!",
+    "attacked": "Your soldiers will die on the battlefield or upon an altar. It makes no difference to Huitzilopochtli.",
+    "defeated": "Huitzilopochtli forgive our weakness...my weakness. I was not strong enough to serve you.",
+    "introduction": "I am the scowling lord of Tenochtitlan. The tlatoani. Who comes before me? A warrior or a coward?",
+
+    "neutralHello": "Welcome, friend.",
+    "hateHello": "What do you want?",
+    "tradeRequest": "Accept this agreement or suffer the consequences.",
+
+    "innerColor": [120,0,0],
+    "outerColor": [125,236,227],
+    "uniqueName": "City at the Center of the World",
+    "cities": ["Babylon"],
+  },
 // City-States
   {
     "name": "The Assyrians",

@@ -25,6 +25,6 @@
     "friendBonusUniques": ["[+2 Science] [in capital]"],
     "allyBonusUniques": ["[+2 Science] [in capital]",
                          "[+1 Science] [in all cities]"],
-    "color": [255,129,18],
+    "color": [0,79,206],
   }
 ]

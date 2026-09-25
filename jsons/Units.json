@@ -5,7 +5,8 @@
     "cost": 80,
     "movement": 3,
     "uniques": ["Founds a new city",
-                "Requires at least [2] population"],
+                "Requires at least [2] population",
+	            "Cost increases by [20] per owned city"],
   },
   {
     "name": "Worker",

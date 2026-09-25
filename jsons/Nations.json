@@ -358,7 +358,7 @@
 	"attacked": "I foresee that your defeat will be swift and your nation will be forgotten.",
 	"defeated": "I foresaw my death, but Wiryeseong's fate would be different.",
 
-    "innerColor": [109,0,205],
+    "innerColor": [0,79,206],
     "outerColor": [0,0,0],
     "cities": ["Wiryeseong"],
   }

@@ -19,5 +19,12 @@
     "allyBonusUniques": ["[+3 Culture] [in capital]",
                          "[+2 Culture] [in all cities]"],
     "color": [109,0,205],
+  },
+  {
+    "name": "Scientific",
+    "friendBonusUniques": ["[+2 Science] [in capital]"],
+    "allyBonusUniques": ["[+2 Science] [in capital]",
+                         "[+1 Science] [in all cities]"],
+    "color": [255,129,18],
   }
 ]

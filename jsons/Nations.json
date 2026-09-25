@@ -230,8 +230,8 @@
 	"hateHello": "What do YOU want?!",
     "tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
 
-    "innerColor": [120,0,0],
-    "outerColor": [125,236,227],
+    "innerColor": [1,42,108],
+    "outerColor": [116,163,243],
     "uniqueName": "City at the Center of the World",
     "cities": ["Babylon"],
   },

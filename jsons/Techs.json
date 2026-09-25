@@ -114,6 +114,7 @@
         "row": 1,
         "cost": 80,
         "prerequisites": ["Code of Law"],
+        "uniques": ["Enables Open Borders agreements"],
       },
       {
         "name": "Masonry",

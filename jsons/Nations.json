@@ -219,6 +219,7 @@
   {
     "name": "Babylon",
     "leaderName": "Nebuchadnezzar II",
+	"favoredReligion": "Islam",
 	"startBias": ["Avoid [Tundra]"],
 
 	"declaringWar": "The demon wants the blood of soldiers!",
@@ -233,7 +234,9 @@
     "innerColor": [1,42,108],
     "outerColor": [116,163,243],
     "uniqueName": "City at the Center of the World",
-    "cities": ["Babylon"],
+    "cities": ["Babylon","Akkad","Dur-Kurigalzu","Nippur","Borsippa","Sippar","Opis","Mari","Shushan","Eshnunna",
+			   "Ellasar","Erech","Kutha","Sirpurla","Neribtum","Ashur","Ninveh","Nimrud","Arbela","Nuzi",
+			   "Arrapkha","Tutub","Shaduppum","Rapiqum","Mashkan Shapir","Tuttul","Ramad","Ana","Haradum","Agrab",],
   },
 // City-States
   {

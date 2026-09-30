@@ -274,6 +274,12 @@
     "wonderCost": 400,
     "techs": [
       {
+        "name": "Banking",
+        "row": 2,
+        "cost": 300,
+        "prerequisites": ["Machinery","Hydrology"],
+      },
+      {
         "name": "Drama",
         "row": 6,
         "cost": 300,

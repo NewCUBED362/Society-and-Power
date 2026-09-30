@@ -301,6 +301,12 @@
     "wonderCost": 400,
     "techs": [
       {
+        "name": "Castles",
+        "row": 7,
+        "cost": 390,
+        "prerequisites": ["Machinery","Feudalism"],
+      }
+      {
         "name": "Heraldry",
         "row": 8,
         "cost": 390,

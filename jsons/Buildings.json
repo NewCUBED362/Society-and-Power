@@ -109,6 +109,7 @@
 		"name": "Bank",
 		"gold": 3,
 		"requiredTech": "Banking",
+		"uniques": ["[+2 Gold] <in [Coastal] tiles>"],
 	},
 // Wonders
 	{

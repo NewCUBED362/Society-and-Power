@@ -125,6 +125,85 @@
 					"Doesn't generate naturally <in [{Grassland} {Fresh Water}] tiles>",
 					"Doesn't generate naturally <in [{Grassland} {Hill}] tiles>"],
   },
+	{
+		"name": "Incense",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Plains","Desert","Flood plains"],
+		"gold": 2,
+		"improvement": "Plantation",
+		"uniques": ["Generated with weight [35] <in [Desert] Regions>",
+					"Generated with weight [10] <in [Plains] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>"]
+	},
+	{
+		"name": "Ivory",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Plains","Grassland"],
+		"gold": 2,
+		"improvement": "Camp",
+		"improvementStats": {"gold": 1},
+		"uniques": ["Generated with weight [35] <in [Plains] Regions>",
+					"Generated with weight [15] <in [Hybrid] Regions>",
+					"Doesn't generate naturally <in [{Grassland} {Fresh Water}] tiles>"]
+	},
+	{
+		"name": "Silk",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Forest","Jungle"],
+		"gold": 2,
+		"improvement": "Plantation",
+		"uniques": ["Generated with weight [5] <in [Jungle] Regions>",
+					"Generated with weight [30] <in [Forest] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Doesn't generate naturally <in [Hill] tiles>"]
+	},
+	{
+		"name": "Spices",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Jungle","Forest","Marsh"],
+		"gold": 2,
+		"improvement": "Plantation",
+		"uniques": ["Generated with weight [30] <in [Jungle] Regions>",
+					"Generated with weight [10] <in [Forest] Regions>",
+					"Generated with weight [5] <in [Plains] Regions>",
+					"Generated with weight [5] <in [Grassland] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Doesn't generate naturally <in [Hill] tiles>",
+					"Doesn't generate naturally <in [{Tundra} {Forest}] tiles>"]
+	},
+	{
+		"name": "Wine",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Grassland","Plains"],
+		"gold": 2,
+		"improvement": "Plantation",
+		"uniques": ["Generated with weight [35] <in [Plains] Regions>",
+					"Generated with weight [15] <in [Hybrid] Regions>"]
+	},
+	{
+		"name": "Sugar",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Flood plains","Grassland","Marsh"],
+		// Technically sugar can also be placed on lowland jungles which then *turn* into marsh.
+		"gold": 2,
+		"improvement": "Plantation",
+		"uniques": ["Generated with weight [20] <in [Jungle] Regions>",
+					"Generated with weight [15] <in [Desert] Regions>",
+					"Generated with weight [20] <in [Grassland] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Doesn't generate naturally <in [Grassland] tiles> <in tiles without [Fresh Water]>"]
+	},
+	{
+		"name": "Marble",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Desert","Plains","Hill","Grassland"],
+		"gold": 2,
+		"improvement": "Quarry",
+		"improvementStats": {"production": 1},
+		"uniques": ["[+15]% Production when constructing [All] wonders [in this city]",
+					"Special placement during map generation",
+					"Doesn't generate naturally <in [{Grassland} {Fresh Water}] tiles>"]
+	},
 // Strategic resources 
   {
     "name": "Horses",

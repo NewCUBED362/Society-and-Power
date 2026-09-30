@@ -256,8 +256,8 @@
     "hateHello": "Oh, it's you?",
     "tradeRequest": "My friend, do you think you can accept this request?",
 
-    "innerColor": [1,42,108],
-    "outerColor": [116,163,243],
+    "innerColor": [247,214,1],
+    "outerColor": [202,20,20],
     "uniqueName": "Wu Zhou China",
     "cities": ["Beijing"],
   },

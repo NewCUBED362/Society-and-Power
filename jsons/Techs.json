@@ -277,7 +277,7 @@
         "name": "Banking",
         "row": 2,
         "cost": 300,
-        "prerequisites": ["Machinery","Hydrology"],
+        "prerequisites": ["Machinery"],
       },
       {
         "name": "Drama",

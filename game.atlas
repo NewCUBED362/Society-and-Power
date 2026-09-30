@@ -20,7 +20,7 @@ BuildingIcons/Campfire
   index: -1
 BuildingIcons/School
   rotate: false
-  xy: 1364, 112
+  xy: 1636, 112
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -55,35 +55,35 @@ NationIcons/Egypt
   index: -1
 NationIcons/Maurya
   rotate: false
-  xy: 820, 112
+  xy: 1092, 112
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Ming
   rotate: false
-  xy: 956, 112
+  xy: 1228, 112
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Qin
   rotate: false
-  xy: 1092, 112
+  xy: 1364, 112
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/Rome
   rotate: false
-  xy: 1228, 112
+  xy: 1500, 112
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Aztecs
   rotate: false
-  xy: 1500, 140
+  xy: 1772, 140
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -97,49 +97,49 @@ ResourceIcons/Bronze
   index: -1
 TechIcons/Celestial Navigation
   rotate: false
-  xy: 1608, 176
+  xy: 1880, 176
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TechIcons/Code of Law
   rotate: false
-  xy: 1680, 176
+  xy: 1952, 176
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TechIcons/Creative Art
   rotate: false
-  xy: 1752, 176
+  xy: 256, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TechIcons/Fire
   rotate: false
-  xy: 1824, 176
+  xy: 328, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TechIcons/Fishing
   rotate: false
-  xy: 1896, 176
+  xy: 400, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TechIcons/Flint Knapping
   rotate: false
-  xy: 1968, 176
+  xy: 472, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TechIcons/Shipbuilding
   rotate: false
-  xy: 256, 40
+  xy: 688, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -151,6 +151,20 @@ TileSets/FantasyHex/Units/Chariot
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Footman
+  rotate: false
+  xy: 1880, 140
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Man-at-Arms
+  rotate: false
+  xy: 760, 76
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Units/Chariot
   rotate: false
   xy: 184, 48
@@ -158,9 +172,37 @@ TileSets/HexaRealm/Units/Chariot
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Units/Footman
+  rotate: false
+  xy: 544, 48
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Man-at-Arms
+  rotate: false
+  xy: 616, 48
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 UnitIcons/Chariot
   rotate: false
   xy: 548, 112
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Footman
+  rotate: false
+  xy: 820, 112
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+UnitIcons/Man-at-Arms
+  rotate: false
+  xy: 956, 112
   size: 128, 128
   orig: 128, 128
   offset: 0, 0

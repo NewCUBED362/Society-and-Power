@@ -6,7 +6,8 @@
         {"yearsPerTurn": 204, "untilTurn":  26},
         {"yearsPerTurn": 131, "untilTurn":  46},
         {"yearsPerTurn": 39, "untilTurn":  56},
-        {"yearsPerTurn": 22, "untilTurn":  9999},
+        {"yearsPerTurn": 22, "untilTurn":  118},
+        {"yearsPerTurn": 16, "untilTurn":  9999},
              ]
   }
 ]

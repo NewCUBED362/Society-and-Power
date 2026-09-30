@@ -280,6 +280,12 @@
         "prerequisites": ["Theology"],
         "uniques": ["Enables conversion of city production to [Culture]"],
       }
+      {
+        "name": "Feudalism",
+        "row": 7,
+        "cost": 300,
+        "prerequisites": ["Theology","Military Tactics"],
+      },
     ]
   }
 ]

@@ -98,6 +98,8 @@
     "strength": 28,
     "requiredTech": "The Wheel",
 	"requiredResource": "Horses",
+	"obsoleteTech": "Heraldry",
+	"upgradesTo": "Knight",
 	"attackSound": "horse",
   },
   {
@@ -173,6 +175,16 @@
     "requiredTech": "Heraldry",
 	"attackSound": "metalhit",
 	"uniques": ["[+25]% Strength <vs [Sword] units>"],
+  },
+  {
+    "name": "Knight",
+    "unitType": "Heavy Horseback",
+    "cost": 220,
+    "movement": 4,
+    "strength": 50,
+    "requiredTech": "Heraldry",
+	"requiredResource": "Horses",
+	"attackSound": "horse",
   },
 		
 // Great People

@@ -303,7 +303,7 @@
       {
         "name": "Heraldry",
         "row": 8,
-        "cost": 300,
+        "cost": 390,
         "prerequisites": ["Military Tactics","Feudalism"],
       }
     ]

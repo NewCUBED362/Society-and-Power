@@ -301,10 +301,16 @@
     "wonderCost": 400,
     "techs": [
       {
+        "name": "Education",
+        "row": 2,
+        "cost": 390,
+        "prerequisites": ["Banking"],
+      },
+      {
         "name": "Castles",
         "row": 7,
         "cost": 390,
-        "prerequisites": ["Machinery","Feudalism"],
+        "prerequisites": ["Banking","Feudalism"],
       }
       {
         "name": "Heraldry",

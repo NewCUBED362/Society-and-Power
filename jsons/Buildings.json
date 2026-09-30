@@ -108,8 +108,16 @@
 	{
 		"name": "Bank",
 		"gold": 3,
+		"requiredBuilding": "Market",
 		"requiredTech": "Banking",
 		"uniques": ["[+2 Gold] <in [Coastal] tiles>"],
+	},
+	{
+		"name": "University",
+		"science": 4,
+		"requiredBuilding": "School",
+		"requiredTech": "Education",
+		"uniques": ["[+10]% growth [in this city]"],
 	},
 // Wonders
 	{

@@ -96,6 +96,19 @@
 			   "Generated with weight [5] <in [Hybrid] Regions>",
 			   "Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>"],
   },
+  {
+    "name": "Gold Ore",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": ["Desert","Hill","Forest","Jungle"],
+    "gold": 4,
+    "improvement": "Mine",
+    "unique": ["Generated with weight [25] <in [Desert] Regions>",
+					"Generated with weight [30] <in [Hill] Regions>",
+					"Generated with weight [5] <in [Plains] Regions>",
+					"Generated with weight [5] <in [Hybrid] Regions>",
+					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]>",
+					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>"],
+  },
 // Strategic resources 
   {
     "name": "Horses",

@@ -83,9 +83,16 @@ NationIcons/Rome
   index: -1
 NationIcons/The Aztecs
   rotate: false
-  xy: 1772, 140
+  xy: 1908, 140
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Wu Zhou
+  rotate: false
+  xy: 1772, 112
+  size: 128, 128
+  orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Bronze
@@ -97,49 +104,49 @@ ResourceIcons/Bronze
   index: -1
 TechIcons/Celestial Navigation
   rotate: false
-  xy: 1880, 176
+  xy: 184, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TechIcons/Code of Law
   rotate: false
-  xy: 1952, 176
+  xy: 328, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TechIcons/Creative Art
   rotate: false
-  xy: 256, 40
+  xy: 400, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TechIcons/Fire
   rotate: false
-  xy: 328, 40
+  xy: 472, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TechIcons/Fishing
   rotate: false
-  xy: 400, 40
+  xy: 544, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TechIcons/Flint Knapping
   rotate: false
-  xy: 472, 40
+  xy: 616, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TechIcons/Shipbuilding
   rotate: false
-  xy: 688, 40
+  xy: 832, 40
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -153,35 +160,35 @@ TileSets/FantasyHex/Units/Chariot
   index: -1
 TileSets/FantasyHex/Units/Footman
   rotate: false
-  xy: 1880, 140
+  xy: 904, 76
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Man-at-Arms
   rotate: false
-  xy: 760, 76
+  xy: 152, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Chariot
   rotate: false
-  xy: 184, 48
+  xy: 256, 48
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Footman
   rotate: false
-  xy: 544, 48
+  xy: 688, 48
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Man-at-Arms
   rotate: false
-  xy: 616, 48
+  xy: 760, 48
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

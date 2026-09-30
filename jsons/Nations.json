@@ -259,7 +259,7 @@
     "innerColor": [247,214,1],
     "outerColor": [202,20,20],
     "uniqueName": "Manual of Entrapment",
-    "cities": ["Beijing"],
+    "cities": ["Shendu","Chang'an","Yangzhou","Chengdu","Guangzhou","Taiyuan","Jingzhou","Jiangdu","Hongzhou","Hangzhou"],
   },
 // City-States
   {

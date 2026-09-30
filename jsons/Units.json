@@ -118,6 +118,7 @@
     "strength": 35,
     "requiredTech": "Iron Working",
 	"requiredResource": "Iron",
+	"upgradesTo": "Man-at-Arms",
 	"attackSound": "metalhit",
 	"uniques": ["[+25]% Strength <vs [Sword] units>"],
   },
@@ -162,6 +163,16 @@
     "strength": 45,
     "requiredTech": "Military Tactics",
 	"attackSound": "metalhit",
+  },
+  {
+    "name": "Man-at-Arms",
+    "unitType": "Heavy Sword",
+    "cost": 200,
+    "movement": 2,
+    "strength": 45,
+    "requiredTech": "Heraldry",
+	"attackSound": "metalhit",
+	"uniques": ["[+25]% Strength <vs [Sword] units>"],
   },
 		
 // Great People

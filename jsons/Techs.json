@@ -284,7 +284,7 @@
         "row": 6,
         "cost": 300,
         "prerequisites": ["Theology"],
-        "uniques": ["Enables conversion of city production to [Culture]"],
+        "uniques": ["[+10]% [Culture] [in all cities]"],
       }
       {
         "name": "Feudalism",

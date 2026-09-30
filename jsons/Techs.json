@@ -301,10 +301,10 @@
     "wonderCost": 400,
     "techs": [
       {
-        "name": "Military Tactics",
+        "name": "Heraldry",
         "row": 8,
         "cost": 300,
-        "prerequisites": ["Military Tactics"],
+        "prerequisites": ["Military Tactics","Feudalism"],
       }
     ]
   }

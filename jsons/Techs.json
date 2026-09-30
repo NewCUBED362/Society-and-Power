@@ -291,7 +291,21 @@
         "row": 7,
         "cost": 300,
         "prerequisites": ["Theology","Military Tactics"],
-      },
+      }
+    ]
+  },
+  {
+    "columnNumber": 11,
+    "era": "Medieval era",
+    "buildingCost": 260,
+    "wonderCost": 400,
+    "techs": [
+      {
+        "name": "Military Tactics",
+        "row": 8,
+        "cost": 300,
+        "prerequisites": ["Military Tactics"],
+      }
     ]
   }
 ]

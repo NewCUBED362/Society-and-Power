@@ -74,7 +74,7 @@
   {
     "name": "Honor",
     "era": "Ancient era",
-    "uniques": ["[+2 Production] [in capital]"],
+    "uniques": ["[+33]% Strength <vs [Barbarian] units>"],
     "policies": [
       {
         "name": "Warrior Code",

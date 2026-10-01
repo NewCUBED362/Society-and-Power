@@ -70,5 +70,21 @@
         "name": "Craftmanship Complete",
       }
     ]
+  },
+  {
+    "name": "Honor",
+    "era": "Ancient era",
+    "uniques": ["[+2 Production] [in capital]"],
+    "policies": [
+      {
+        "name": "Warrior Code",
+        "row": 1,
+        "column": 3,
+        "uniques": ["[+1 Gold, +1 Science] [in capital]"],
+      },
+      {
+        "name": "Honor Complete",
+      }
+    ]
   }
 ]

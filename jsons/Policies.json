@@ -89,6 +89,12 @@
         "uniques": ["[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"],
       },
       {
+        "name": "Survey",
+        "row": 1,
+        "column": 5,
+        "uniques": ["[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"],
+      },
+      {
         "name": "Honor Complete",
       }
     ]

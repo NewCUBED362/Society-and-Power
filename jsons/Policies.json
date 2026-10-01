@@ -49,6 +49,7 @@
         "row": 2,
         "column": 3,
         "requires": ["Tool Making"],
+        "uniques": ["[+1 Production] [in all cities]"],
       },
       {
         "name": "Ilkum",

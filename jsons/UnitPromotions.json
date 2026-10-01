@@ -5,8 +5,8 @@
 		"unitTypes": ["Sword","Heavy Sword","Mounted","Heavy Mounted","Archery","Siege"],
 		"innerColor": [195,53,43],
 		"outerColor": [253,236,234],
-    "row": 0,
-    "column": 0,
+        "row": 0,
+        "column": 0,
   },
 	{	// For barbarian water units
 		"name": "Unable to pillage tiles",

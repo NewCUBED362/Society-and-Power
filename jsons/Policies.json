@@ -41,6 +41,7 @@
         "name": "Tool Making",
         "row": 1,
         "column": 3,
+        "uniques": ["[+1 Gold, +1 Science] [in capital]"],
       },
       {
         "name": "Urban Planning",

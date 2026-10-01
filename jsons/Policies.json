@@ -95,6 +95,13 @@
         "uniques": ["[+1] Movement <for [Scout] units>"],
       },
       {
+        "name": "Professional Army",
+        "row": 2,
+        "column": 3,
+        "requires": ["Warrior Code","Discipline","Survey"],
+        "uniques": ["[+25]% XP gained from combat"],
+      },
+      {
         "name": "Honor Complete",
       }
     ]

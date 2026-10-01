@@ -80,7 +80,7 @@
         "name": "Warrior Code",
         "row": 1,
         "column": 3,
-        "uniques": ["[+1 Gold, +1 Science] [in capital]"],
+        "uniques": ["[+15]% Production when constructing [Military] units [in all cities]"],
       },
       {
         "name": "Honor Complete",

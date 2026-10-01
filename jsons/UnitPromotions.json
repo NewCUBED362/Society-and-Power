@@ -2,7 +2,7 @@
   {
 		"name": "Heal Instantly",
 		"uniques": ["[This Unit] heals [50] HP", "Doing so will consume this opportunity to choose a Promotion"],
-		"unitTypes": ["Sword","Heavy Sword","Mounted","Heavy Mounted","Archery","Siege"],
+		"unitTypes": ["Sword","Heavy Sword","Horseback","Heavy Horseback","Archery","Siege","Recon","Melee Water"],
 		"innerColor": [195,53,43],
 		"outerColor": [253,236,234],
         "row": 0,

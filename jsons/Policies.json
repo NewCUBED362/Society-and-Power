@@ -86,7 +86,7 @@
         "name": "Discipline",
         "row": 1,
         "column": 3,
-        "uniques": ["[+15]% Production when constructing [Military] units [in all cities]"],
+        "uniques": ["[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"],
       },
       {
         "name": "Honor Complete",

@@ -121,10 +121,9 @@
 	},
 	{
 		"name": "Museum",
-		"culture": 5,
+		"culture": 4,
 		"requiredBuilding": "Amphitheater",
 		"requiredTech": "Humanism",
-		"uniques": ["[+10]% growth [in this city]"],
 	},
 // Wonders
 	{

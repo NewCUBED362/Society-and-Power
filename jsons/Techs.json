@@ -245,7 +245,7 @@
     "columnNumber": 9,
     "era": "Medieval era",
     "buildingCost": 260,
-    "wonderCost": 400,
+    "wonderCost": 920,
     "techs": [
       {
         "name": "Machinery",
@@ -271,7 +271,7 @@
     "columnNumber": 10,
     "era": "Medieval era",
     "buildingCost": 260,
-    "wonderCost": 400,
+    "wonderCost": 920,
     "techs": [
       {
         "name": "Banking",
@@ -298,7 +298,7 @@
     "columnNumber": 11,
     "era": "Medieval era",
     "buildingCost": 260,
-    "wonderCost": 400,
+    "wonderCost": 920,
     "techs": [
       {
         "name": "Education",
@@ -324,7 +324,7 @@
     "columnNumber": 12,
     "era": "Renaissance era",
     "buildingCost": 260,
-    "wonderCost": 700,
+    "wonderCost": 920,
     "techs": [
       {
         "name": "Humanism",

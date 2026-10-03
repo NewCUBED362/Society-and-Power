@@ -332,6 +332,12 @@
         "cost": 390,
         "prerequisites": ["Education"],
         "uniques": ["[+1 Happiness] from all [University] buildings"],
+      },
+      {
+        "name": "Metallurgy",
+        "row": 8,
+        "cost": 390,
+        "prerequisites": ["Heraldry"],
       }
     ]
   }

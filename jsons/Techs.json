@@ -334,6 +334,12 @@
         "uniques": ["[+1 Happiness] from all [University] buildings"],
       },
       {
+        "name": "Printing Press",
+        "row": 2,
+        "cost": 390,
+        "prerequisites": ["Education"],
+      },
+      {
         "name": "Metallurgy",
         "row": 8,
         "cost": 390,

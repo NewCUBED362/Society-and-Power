@@ -175,7 +175,7 @@
 		"culture": 2,
 		"happiness": 4,
 		"requiredTech": "Humanism",
-		"uniques": ["[+15]% growth [in all cities]","Can only be built <in [River] tiles>"],
+		"uniques": ["Empire enters golden age","Can only be built <in [River] tiles>"],
 		"quote": "'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.' - F. Frankfort Moore",
 	}
 ]

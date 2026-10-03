@@ -319,5 +319,19 @@
         "prerequisites": ["Military Tactics","Feudalism"],
       }
     ]
+  },
+  {
+    "columnNumber": 12,
+    "era": "Renaissance era",
+    "buildingCost": 260,
+    "wonderCost": 700,
+    "techs": [
+      {
+        "name": "Humanism",
+        "row": 1,
+        "cost": 390,
+        "prerequisites": ["Education"],
+      }
+    ]
   }
 ]

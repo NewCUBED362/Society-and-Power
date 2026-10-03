@@ -346,5 +346,19 @@
         "prerequisites": ["Heraldry"],
       }
     ]
+  },
+  {
+    "columnNumber": 13,
+    "era": "Renaissance era",
+    "buildingCost": 260,
+    "wonderCost": 920,
+    "techs": [
+      {
+        "name": "Gunpowder",
+        "row": 8,
+        "cost": 390,
+        "prerequisites": ["Metallurgy"],
+      }
+    ]
   }
 ]

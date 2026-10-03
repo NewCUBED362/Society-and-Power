@@ -119,6 +119,13 @@
 		"requiredTech": "Education",
 		"uniques": ["[+10]% growth [in this city]"],
 	},
+	{
+		"name": "Museum",
+		"culture": 5,
+		"requiredBuilding": "Amphitheater",
+		"requiredTech": "Humanism",
+		"uniques": ["[+10]% growth [in this city]"],
+	},
 // Wonders
 	{
 		"name": "Stonehenge",

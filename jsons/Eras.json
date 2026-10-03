@@ -14,5 +14,9 @@
   {
     "name": "Medieval era",
     "startingMilitaryUnit": "Warrior",
+  },
+  {
+    "name": "Renaissance era",
+    "startingMilitaryUnit": "Footman",
   }
 ]

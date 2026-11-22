@@ -1,109 +1,68 @@
 [
   {
-    "name": "Mysticism",
-    "era": "Neolithic era",
-    "uniques": ["[+1 Faith, +1 Culture] [in capital]"],
-    "policies": [
-      {
-        "name": "Priesthood",
-        "row": 1,
-        "column": 1,
-        "uniques": ["[+1 Gold] [in all cities]"],
-      },
-      {
-        "name": "Clan Networks",
-        "row": 2,
-        "column": 1,
-        "requires": ["Priesthood"],
-        "uniques": ["[+10]% growth [in all cities]"],
-      },
-      {
-        "name": "Inspiration",
-        "row": 1,
-        "column": 3,
-        "uniques": ["[+1 Culture] [in all cities]"],
-      },
-      {
-        "name": "Revelation",
-        "row": 2,
-        "column": 3,
-        "requires": ["Inspiration"],
-        "uniques": ["[+1 Faith] [in all cities]"],
-      },
-      {
-        "name": "Mysticism Complete",
-        "uniques": ["[+15]% [Faith] [in capital]"],
-      }
-    ]
-  },
-  {
-    "name": "Craftmanship",
-    "era": "Neolithic era",
-    "uniques": ["[+2 Production] [in capital]"],
-    "policies": [
-      {
-        "name": "Tool Making",
-        "row": 1,
-        "column": 3,
-        "uniques": ["[+1 Gold, +1 Science] [in capital]"],
-      },
-      {
-        "name": "Urban Planning",
-        "row": 2,
-        "column": 3,
-        "requires": ["Tool Making"],
-        "uniques": ["[+1 Production] [in all cities]"],
-      },
-      {
-        "name": "Ilkum",
-        "row": 3,
-        "column": 1,
-        "requires": ["Urban Planning"],
-      },
-      {
-        "name": "Agoge",
-        "row": 3,
-        "column": 5,
-        "requires": ["Urban Planning"],
-      },
-      {
-        "name": "Craftmanship Complete",
-      }
-    ]
-  },
-  {
-    "name": "Honor",
+    "name": "Hellenic Culture",
     "era": "Ancient era",
-    "uniques": ["[+33]% Strength <vs [Barbarian] units>"],
     "policies": [
       {
-        "name": "Warrior Code",
+        "name": "The Polis",
         "row": 1,
-        "column": 1,
-        "uniques": ["[+15]% Production when constructing [Military] units [in all cities]"],
+        "column": 2,
+        "uniques": ["[+1 Culture] [in all cities]",
+                    "[+1 Happiness] [in capital]"],
       },
       {
-        "name": "Discipline",
-        "row": 1,
-        "column": 3,
-        "uniques": ["[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"],
-      },
-      {
-        "name": "Survey",
-        "row": 1,
-        "column": 5,
-        "uniques": ["[+1] Movement <for [Scout] units>"],
-      },
-      {
-        "name": "Professional Army",
+        "name": "Civic Assembly",
         "row": 2,
-        "column": 3,
-        "requires": ["Warrior Code","Discipline","Survey"],
-        "uniques": ["[+25]% XP gained from combat"],
+        "column": 1,
+        "requires": ["The Polis"],
+        "uniques": ["[+1 Culture] from all [Amphitheater] buildings",
+                    "[+1 Culture] <in cities with at least [5] [Population]>"],
       },
       {
-        "name": "Honor Complete",
-        "uniques": ["Earn [80]% of killed [Military] unit's [Strength] as [Gold]"],
+        "name": "Hoplite Tradition",
+        "row": 2,
+        "column": 5,
+        "requires": ["The Polis"],
+        "uniques": ["[+1 Production] from all [Barracks] buildings"],
+      },
+      {
+        "name": "Aegean Commerce",
+        "row": 2,
+        "column": 7,
+        "requires": ["The Polis"],
+        "uniques": ["[+1 Gold] [in all coastal cities]",
+                    "[+1 Gold] from all [Dock] buildings"],
+      },
+      {
+        "name": "Written Law",
+        "row": 3,
+        "column": 1,
+        "requires": ["Civic Assembly"],
+        "uniques": ["[+1 Happiness] from all [Monument] buildings"],
+      },
+      {
+        "name": "Philosophical Inquiry",
+        "row": 3,
+        "column": 3,
+        "requires": ["Civic Assembly"],
+        "uniques": ["[+1 Science] from all [Library] buildings"],
+      },
+      {
+        "name": "Pan-Hellenic Games",
+        "row": 3,
+        "column": 5,
+        "requires": ["Hoplite Tradition"],
+        "uniques": ["[+2 Happiness] from all [Colosseum] buildings"],
+      },
+      {
+        "name": "Apoikiai",
+        "row": 3,
+        "column": 7,
+        "requires": ["Aegean Commerce"],
+        "uniques": ["[+15]% Production when constructing [Settler] units [in all cities]"],
+      },
+      {
+        "name": "Hellenic Culture Complete",
       }
     ]
   }

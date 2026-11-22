@@ -31,6 +31,18 @@
         "uniques": ["[+15]% growth [in all cities] <in cities with less than [6] [Population]>"],
       },
       {
+        "name": "Kinship Bonds",
+        "row": 3,
+        "column": 3,
+        "uniques": ["[+15]% growth [in all cities] <in cities with less than [6] [Population]>"],
+      },
+      {
+        "name": "Kinship Bonds",
+        "row": 3,
+        "column": 5,
+        "uniques": ["[+15]% growth [in all cities] <in cities with less than [6] [Population]>"],
+      },
+      {
         "name": "Nomadic Culture Complete",
       },
     ]

@@ -15,14 +15,14 @@
         "row": 2,
         "column": 1,
         "requires": ["Kinship Bonds"],
-        "uniques": ["[+15]% growth [in all cities] <in cities with less than [6] [Population]>"],
+        "uniques": ["[+1 Food] from [Camp] tiles [in all cities]"],
       },
       {
         "name": "Seasonal Migration",
         "row": 2,
         "column": 5,
         "requires": ["Kinship Bonds"],
-        "uniques": ["[+15]% growth [in all cities] <in cities with less than [6] [Population]>"],
+        "uniques": ["[+1] Movement <for [Civilian] units> <before the [Classical era]>"],
       },
       {
         "name": "Kinship Bonds",

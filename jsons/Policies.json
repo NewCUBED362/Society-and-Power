@@ -1,4 +1,22 @@
 [
+  // Neolithic era
+  {
+    "name": "Nomadic Culture",
+    "era": "Neolithic era",
+    "policies": [
+      {
+        "name": "Ooga",
+        "row": 1,
+        "column": 2,
+        "uniques": ["[+1 Culture] [in all cities]",
+                    "[+1 Happiness] [in capital]"],
+      },
+      {
+        "name": "Nomadic Culture Complete",
+      },
+    ]
+  },     
+  // Ancient era
   {
     "name": "Hellenic Culture",
     "era": "Ancient era",

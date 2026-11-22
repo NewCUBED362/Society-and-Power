@@ -5,9 +5,9 @@
     "era": "Neolithic era",
     "policies": [
       {
-        "name": "Ooga",
+        "name": "Kinship Bonds",
         "row": 1,
-        "column": 2,
+        "column": 1,
         "uniques": ["[+1 Culture] [in all cities]",
                     "[+1 Happiness] [in capital]"],
       },

@@ -7,5 +7,6 @@
                 "Cannot build [Settler] units <when below [-10] [Happiness]>",
                 "[-100]% unhappiness from the number of cities",
                 "[-50]% Unhappiness from [Population] [in all cities]",
+                "[-75]% Culture cost of adopting new Policies"
     ]
 }

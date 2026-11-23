@@ -158,6 +158,13 @@
         "uniques": ["[+10]% Strength <for [Heavy Sword] units>"],
       },
       {
+        "name": "Pānem et Circēnsēs",
+        "row": 4,
+        "column": 3,
+        "requires": ["Administrātiō Imperiī"],
+        "uniques": ["[+1 Gold] from all [Monument] buildings"],
+      },
+      {
         "name": "Roman Culture Complete",
       }
     ]

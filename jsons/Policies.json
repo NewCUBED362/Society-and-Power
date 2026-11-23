@@ -165,6 +165,13 @@
         "uniques": ["[+2 Happiness] [in all cities]"], // Replace with happiness from colosseum buildings
       },
       {
+        "name": "Legiōnēs Imperiī",
+        "row": 4,
+        "column": 5,
+        "requires": ["Disciplīna Mīlitāris"],
+        "uniques": ["[+2 Happiness] [in all cities]"], // Replace with happiness from colosseum buildings
+      },
+      {
         "name": "Roman Culture Complete",
       }
     ]

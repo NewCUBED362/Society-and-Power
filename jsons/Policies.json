@@ -169,7 +169,14 @@
         "row": 4,
         "column": 5,
         "requires": ["Disciplīna Mīlitāris"],
-        "uniques": ["[+2 Happiness] [in all cities]"], // Replace with happiness from colosseum buildings
+        "uniques": ["New [Military] units start with [5] XP [in all cities]"],
+      },
+      {
+        "name": "Viae et Aquae",
+        "row": 4,
+        "column": 7,
+        "requires": ["Disciplīna Mīlitāris"],
+        "uniques": ["[+2 Happiness] [in all cities]"],
       },
       {
         "name": "Roman Culture Complete",

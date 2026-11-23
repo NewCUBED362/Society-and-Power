@@ -126,7 +126,8 @@
         "name": "Mos Maiorum",
         "row": 1,
         "column": 5,
-        "uniques": ["[+15]% growth [in all cities] <in cities with less than [6] [Population]>"],
+        "uniques": ["[+1 Culture] [in all cities]",
+                    "[+15]% Production when constructing [Monument] buildings [in all cities]"],
       },
       {
         "name": "Roman Culture Complete",

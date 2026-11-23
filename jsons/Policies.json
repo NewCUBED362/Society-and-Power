@@ -162,7 +162,7 @@
         "row": 4,
         "column": 3,
         "requires": ["Administrātiō Imperiī"],
-        "uniques": ["[+1 Gold] from all [Monument] buildings"],
+        "uniques": ["[+2 Happiness] [in all cities]"],
       },
       {
         "name": "Roman Culture Complete",

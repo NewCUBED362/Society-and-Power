@@ -176,7 +176,8 @@
         "row": 4,
         "column": 7,
         "requires": ["Disciplīna Mīlitāris"],
-        "uniques": ["[+2 Happiness] [in all cities]"],
+        "uniques": ["[+1 Food] from all [Aqueduct] buildings",
+                    "[-25]% maintenance on road & railroads"],
       },
       {
         "name": "Roman Culture Complete",

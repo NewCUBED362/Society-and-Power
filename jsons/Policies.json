@@ -123,9 +123,9 @@
     "era": "Ancient era",
     "policies": [
       {
-        "name": "Roman Empire",
+        "name": "Mos Maiorum",
         "row": 1,
-        "column": 1,
+        "column": 5,
         "uniques": ["[+15]% growth [in all cities] <in cities with less than [6] [Population]>"],
       },
       {

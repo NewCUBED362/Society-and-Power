@@ -155,7 +155,7 @@
         "row": 3,
         "column": 7,
         "requires": ["Mos Maiorum"],
-        "uniques": ["[+1 Gold] from all [Monument] buildings"],
+        "uniques": ["[+10]% Strength <for [Heavy Sword] units>"],
       },
       {
         "name": "Roman Culture Complete",

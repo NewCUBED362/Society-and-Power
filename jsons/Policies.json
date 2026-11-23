@@ -125,7 +125,7 @@
       {
         "name": "Mos Maiorum",
         "row": 1,
-        "column": 5,
+        "column": 7,
         "uniques": ["[+1 Culture] [in all cities]",
                     "[+15]% Production when constructing [Monument] buildings [in all cities]"],
       },
@@ -134,6 +134,13 @@
         "row": 2,
         "column": 1,
         "requires": ["Mos Maiorum"],
+        "uniques": ["[+1 Culture, +1 Gold] [in capital]"],
+      },
+      {
+        "name": "Iūs Rōmānum",
+        "row": 3,
+        "column": 1,
+        "requires": ["Magistrātūs"],
         "uniques": ["[+1 Culture, +1 Gold] [in capital]"],
       },
       {

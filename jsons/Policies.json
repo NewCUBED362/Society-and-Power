@@ -144,6 +144,13 @@
         "uniques": ["[-20]% Unhappiness from [Population] [in resisting cities]"],
       },
       {
+        "name": "Administrātiō Imperiī",
+        "row": 3,
+        "column": 3,
+        "requires": ["Magistrātūs"],
+        "uniques": ["[-20]% Unhappiness from [Population] [in resisting cities]"],
+      },
+      {
         "name": "Roman Culture Complete",
       }
     ]

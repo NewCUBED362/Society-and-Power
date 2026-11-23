@@ -266,7 +266,7 @@
   },
 // City-States
   {
-    "name": "The Assyrians",
+    "name": "Dur-Sharrukin",
 	"cityStateType": "Expansionist",
 
     "declaringWar": "I fear there is no other choice but to remove you from this world!",
@@ -275,10 +275,10 @@
 
     "innerColor": [97,191,34],
     "outerColor": [0,0,0],
-    "cities": ["Assur","Dur-Sharrukin","Nineveh","Harran"],
+    "cities": ["Dur-Sharrukin"],
   },
   {
-    "name": "The Etruscans",
+    "name": "Aritim",
 	"cityStateType": "Expansionist",
 
     "declaringWar": "You leave us no choice. War it must be.",
@@ -290,7 +290,7 @@
     "cities": ["Aritim"],
   },
   {
-    "name": "The Hittites",
+    "name": "Hattusa",
 	"cityStateType": "Expansionist",
 
     "declaringWar": "You leave us no choice. War it must be.",
@@ -302,7 +302,7 @@
     "cities": ["Hattusa"],
   },
   {
-    "name": "The New Zealanders",
+    "name": "Auckland",
 	"cityStateType": "Industrial",
 
     "declaringWar": "You leave us no choice. War it must be.",
@@ -311,10 +311,10 @@
 
     "innerColor": [255,129,18],
     "outerColor": [0,0,0],
-    "cities": ["Auckland","Christchurch","Wellington"],
+    "cities": ["Auckland"],
   },
   {
-    "name": "The Belgians",
+    "name": "Antwerp",
 	"cityStateType": "Industrial",
 
     "declaringWar": "You leave us no choice. War it must be.",
@@ -323,10 +323,10 @@
 
     "innerColor": [255,129,18],
     "outerColor": [0,0,0],
-    "cities": ["Brussels","Antwerp","Ghent"],
+    "cities": ["Antwerp"],
   },
   {
-    "name": "The Argentinians",
+    "name": "Buenos Aires",
 	"cityStateType": "Industrial",
 
     "declaringWar": "You leave us no choice. War it must be.",
@@ -338,7 +338,7 @@
     "cities": ["Buenos Aires"],
   },
   {
-    "name": "The Champa",
+    "name": "Cham",
 	"cityStateType": "Cultured",
 
     "declaringWar": "You are at war with the army of Champa. Do you hear the sounds of the rallying drums? Or perhaps the thunderous roars of the war elephants? Our army is rushing out to battle!",
@@ -350,7 +350,7 @@
     "cities": ["Cham"],
   },
   {
-    "name": "The Chimú",
+    "name": "Chan Chan",
 	"cityStateType": "Cultured",
 
     "declaringWar": "Resistance is futile! You cannot hope to stand against the mighty Chimor empire. If you will not surrender immediately, then prepare for war!",
@@ -362,7 +362,7 @@
     "cities": ["Chan Chan"],
   },
   {
-    "name": "The Arrernte",
+    "name": "Mparntwe",
 	"cityStateType": "Cultured",
 
     "declaringWar": "After thorough deliberation, Mparntwe finds itself at a crossroads. Prepare yourself, for war is upon us.",
@@ -374,7 +374,7 @@
     "cities": ["Mparntwe"],
   },
   {
-    "name": "The Baekje",
+    "name": "Wiryeseong",
 	"cityStateType": "Scientific",
 
     "declaringWar": "The stars foretell your defeat. The will of Heaven cannot be denied.",
@@ -386,7 +386,7 @@
     "cities": ["Wiryeseong"],
   },
   {
-    "name": "The Harappans",
+    "name": "Harappa",
 	"cityStateType": "Scientific",
 
     "declaringWar": "Your territory could be much improved under Harappan rule. Best I see it through.",
@@ -398,7 +398,7 @@
     "cities": ["Harappa"],
   },
   {
-    "name": "The Ayutthaya",
+    "name": "Ayutthaya",
 	"cityStateType": "Scientific",
 
     "declaringWar": "Your territory could be much improved under Ayutthaya rule. Best I see it through.",

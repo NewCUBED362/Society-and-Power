@@ -141,7 +141,7 @@
         "row": 3,
         "column": 1,
         "requires": ["Magistrātūs"],
-        "uniques": ["[+1 Culture, +1 Gold] [in capital]"],
+        "uniques": ["[-20]% Unhappiness from [Population] [in resisting cities]"],
       },
       {
         "name": "Roman Culture Complete",

@@ -133,8 +133,8 @@
         "name": "Magistrātūs",
         "row": 2,
         "column": 1,
-        "uniques": ["[+1 Culture] [in all cities]",
-                    "[+15]% Production when constructing [Monument] buildings [in all cities]"],
+        "requires": ["Mos Maiorum"],
+        "uniques": ["[+1 Culture, +1 Gold] [in capital]"],
       },
       {
         "name": "Roman Culture Complete",

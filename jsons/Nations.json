@@ -30,7 +30,7 @@
   {
     "name": "Qin",
     "leaderName": "Qin Shi Huang",
-	"favoredReligion": "Taoism",
+	"favoredReligion": "Confucianism",
 	"startBias": ["Grassland"],
 
 	"startIntroPart1": "Oh, wise and mighty Qin Shi Huangdi, the king of Qin and first Emperor of united China. Qin was an ancient Chinese state established in ninth century before Christ. During the early Warring States period, Qin's underdevelopment and decline had resulted in territorial losses to the Wei Kingdom. But then began a time of reformation in the legal, economic and social systems. The aristocracy system was abolished, all slaves granted citizenship rights, and meritocracy was practised in the military. Focus on increasing agricultural output resulted in major population growth, and the possibility of creating a larger army. Qin rose to prominence and emerged as one the dominant superpower among the Seven Warring States. The final advantage they needed to spread their supremacy over all China was a wise king with an unyielding will. You were that unyielding will, and China has been greatful ever since.",
@@ -105,7 +105,7 @@
   {
     "name": "Ming",
     "leaderName": "Yongle",
-	"favoredReligion": "Taoism",
+	"favoredReligion": "Confucianism",
 	"startBias": ["Grassland"],
 
     "declaringWar": "It is not my wish to conquer your realm by force, but there is no other way.",
@@ -251,13 +251,13 @@
   {
     "name": "Wu Zhou",
     "leaderName": "Wu Zetian",
-	"favoredReligion": "Buddhism",
+	"favoredReligion": "Mahayana",
 	"startBias": ["Grassland"],
 
 	"declaringWar": "Darling, your time here is over, you can leave.",
 	"attacked": "A group armed with swords wailing restlessly, should I call this behavior an art?",
 	"defeated": "Please, if you believe that you can deal with and abandon it, do you believe that it will be as you envisioned?",
-	"introduction": "I am Wu Zhao, loved and feared by the people, the only queen in all of China.",
+	"introduction": "I am Wu Zetian, loved and feared by the people, the only queen in all of China.",
 
     "neutralHello": "How are you, today?",
     "hateHello": "Oh, it's you?",

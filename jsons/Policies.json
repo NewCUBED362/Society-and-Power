@@ -181,6 +181,8 @@
       },
       {
         "name": "Roman Culture Complete",
+        "uniques": ["[+1 Culture] [in capital]",
+                    "[+1 Happiness] from all [Monument] buildings"],
       }
     ]
   }

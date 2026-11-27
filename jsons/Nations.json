@@ -5,7 +5,7 @@
 	"favoredReligion": "Imperial Cult",
 	"startBias": ["Avoid [Desert]","Avoid [Tundra]"],
 
-	"startIntroPart1": " O' Gaius Julius Caesar, consul and dictator of Rome! Who amongst your foes could rival your prowess and fame? Having conquered Gaul and secured the loyalty of your soldiers, you would soon become the undisputed ruler of Rome; facing down your rival Pompey the Great and installing your lover Cleopatra upon the throne of Egypt. But at peace you were as comfortable as at war; taking the the title of Dictator in Perpetuity, you would set out to resolve Rome's debts and to reform her society. Yet jealous friends still dwelt amongst your ranks, and your death would ultimately come at the hands of those you trusted.",
+	"startIntroPart1": "O' Gaius Julius Caesar, consul and dictator of Rome! Who amongst your foes could rival your prowess and fame? Having conquered Gaul and secured the loyalty of your soldiers, you would soon become the undisputed ruler of Rome; facing down your rival Pompey the Great and installing your lover Cleopatra upon the throne of Egypt. But at peace you were as comfortable as at war; taking the the title of Dictator in Perpetuity, you would set out to resolve Rome's debts and to reform her society. Yet jealous friends still dwelt amongst your ranks, and your death would ultimately come at the hands of those you trusted.",
 	"startIntroPart2": "Vanquisher of Vercingetorix, conqueror of Cleopatra; O' great Caesar, cry havoc and let slip the dogs of war! Can you bring your enemies to their kness? Can you lead Rome on the path to rule and reform over the earth? Can you build a civilization that will stand the test of time?",
 
     "declaringWar": "The die is cast.",

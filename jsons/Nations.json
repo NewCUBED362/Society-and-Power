@@ -33,6 +33,9 @@
 	"favoredReligion": "Taoism",
 	"startBias": ["Grassland"],
 
+	"startIntroPart1": "",
+	"startIntroPart2": "",
+
     "declaringWar": "How dare you enrage Tian's might! I will send a great army, desecrate your ancestral shrines, eliminate your people. I swear I won't restrain them!",
     "attacked": "Fight if you want to. Soon I will punish and kill you!",
     "defeated": "I never would have thought... not like this.",

@@ -2,7 +2,7 @@
   {
     "name": "Rome",
     "leaderName": "Julius Caesar",
-	"favoredReligion": "Christianity",
+	"favoredReligion": "Imperial Cult",
 	"startBias": ["Avoid [Desert]","Avoid [Tundra]"],
 
     "declaringWar": "The die is cast.",
@@ -196,6 +196,7 @@
   {
     "name": "The Aztecs",
     "leaderName": "Montezuma I",
+	"favoredReligion": "Tlateomatiliztli",
 	"startBias": ["Jungle"],
 
     "declaringWar": "Now we will see if you are cowards or warriors!",
@@ -219,7 +220,7 @@
   {
     "name": "Babylon",
     "leaderName": "Nebuchadnezzar II",
-	"favoredReligion": "Islam",
+	"favoredReligion": "Chaldaenism",
 	"startBias": ["Avoid [Tundra]"],
 
 	"declaringWar": "The demon wants the blood of soldiers!",

@@ -1,0 +1,727 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Academy
+  rotate: false
+  xy: 140, 424
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ancient Walls
+  rotate: false
+  xy: 4, 16
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Arena
+  rotate: false
+  xy: 660, 784
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Bath
+  rotate: false
+  xy: 904, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Blacksmith
+  rotate: false
+  xy: 140, 208
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Byrsa
+  rotate: false
+  xy: 252, 892
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Dur-Sharrukin
+  rotate: false
+  xy: 388, 892
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Great Library
+  rotate: false
+  xy: 248, 296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Great Lighthouse
+  rotate: false
+  xy: 388, 756
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mausoleum at Halicarnassus
+  rotate: false
+  xy: 468, 512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Mireuksa
+  rotate: false
+  xy: 4, 124
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pyramid Of The Sun
+  rotate: false
+  xy: 388, 620
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Spherical Earth
+  rotate: false
+  xy: 660, 892
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+BuildingIcons/Villa
+  rotate: false
+  xy: 1308, 812
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Cultural
+  rotate: false
+  xy: 4, 396
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CityStateIcons/Diplomatic
+  rotate: false
+  xy: 252, 756
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CityStateIcons/Economic
+  rotate: false
+  xy: 4, 260
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CityStateIcons/Expansionist
+  rotate: false
+  xy: 252, 620
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CityStateIcons/Militaristic
+  rotate: false
+  xy: 524, 892
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CityStateIcons/Scientific
+  rotate: false
+  xy: 524, 756
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+EmojiIcons/Culture
+  rotate: false
+  xy: 1984, 970
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Food
+  rotate: false
+  xy: 184, 42
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Gold
+  rotate: false
+  xy: 648, 482
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Happiness
+  rotate: false
+  xy: 812, 618
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Production
+  rotate: false
+  xy: 1596, 754
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+EmojiIcons/Science
+  rotate: false
+  xy: 1654, 764
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Brickyard
+  rotate: false
+  xy: 1012, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Brickyard
+  rotate: false
+  xy: 1012, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Clay Pit
+  rotate: false
+  xy: 1336, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Fishing Boat
+  rotate: false
+  xy: 1660, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Fishing Quay
+  rotate: false
+  xy: 1660, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Garden
+  rotate: false
+  xy: 252, 512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Garden District
+  rotate: false
+  xy: 252, 512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Granary
+  rotate: false
+  xy: 248, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Harbor
+  rotate: false
+  xy: 356, 296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Harbor District
+  rotate: false
+  xy: 356, 296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Library
+  rotate: false
+  xy: 248, 80
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Saw Pit
+  rotate: false
+  xy: 768, 784
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Saw Pit
+  rotate: false
+  xy: 768, 784
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/America
+  rotate: false
+  xy: 1632, 822
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Egypt
+  rotate: false
+  xy: 4, 780
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+NationIcons/Maurya
+  rotate: false
+  xy: 1730, 822
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/Rome
+  rotate: false
+  xy: 4, 532
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+NationIcons/Songhai
+  rotate: false
+  xy: 1828, 822
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+NationIcons/The Han
+  rotate: false
+  xy: 1926, 822
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+ResourceIcons/Clay
+  rotate: false
+  xy: 1228, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Codex
+  rotate: false
+  xy: 1444, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Llamas
+  rotate: false
+  xy: 356, 80
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Wool
+  rotate: false
+  xy: 1524, 812
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Culture
+  rotate: false
+  xy: 1552, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Food
+  rotate: false
+  xy: 1768, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Gold
+  rotate: false
+  xy: 360, 512
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Happiness
+  rotate: false
+  xy: 356, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Population
+  rotate: false
+  xy: 464, 188
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Production
+  rotate: false
+  xy: 464, 80
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Science
+  rotate: false
+  xy: 740, 676
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Brickyard-Antiquity Age
+  rotate: false
+  xy: 1984, 930
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Garden-Antiquity Age
+  rotate: false
+  xy: 1984, 930
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Granary-Antiquity Age
+  rotate: false
+  xy: 1984, 930
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Library-Antiquity Age
+  rotate: false
+  xy: 1984, 930
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Saw Pit-Antiquity Age
+  rotate: false
+  xy: 1984, 930
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Antiquity Age
+  rotate: false
+  xy: 1752, 782
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Clay
+  rotate: false
+  xy: 1792, 786
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Clay+Clay Pit
+  rotate: false
+  xy: 1832, 786
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Llamas
+  rotate: false
+  xy: 1872, 786
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Wool
+  rotate: false
+  xy: 362, 44
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Wool+Pasture
+  rotate: false
+  xy: 242, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Chariot
+  rotate: false
+  xy: 1712, 786
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Phalanx
+  rotate: false
+  xy: 1912, 786
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Purabhettarah
+  rotate: false
+  xy: 1952, 786
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Quadrireme
+  rotate: false
+  xy: 242, 44
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Quadrireme-1
+  rotate: false
+  xy: 282, 44
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Quadrireme-2
+  rotate: false
+  xy: 322, 44
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Clay
+  rotate: false
+  xy: 576, 476
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Clay+Clay Pit
+  rotate: false
+  xy: 740, 612
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Llamas
+  rotate: false
+  xy: 876, 748
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Llamas+Pasture
+  rotate: false
+  xy: 948, 748
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Wool
+  rotate: false
+  xy: 1452, 748
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Wool+Pasture
+  rotate: false
+  xy: 1524, 748
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Chariot
+  rotate: false
+  xy: 112, 36
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Medjay
+  rotate: false
+  xy: 1020, 748
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Phalanx
+  rotate: false
+  xy: 1092, 748
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Phalanx-1
+  rotate: false
+  xy: 1164, 748
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Phalanx-2
+  rotate: false
+  xy: 1236, 748
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Purabhettarah
+  rotate: false
+  xy: 1308, 742
+  size: 64, 62
+  orig: 64, 62
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Quadrireme
+  rotate: false
+  xy: 1380, 748
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+UnitIcons/Archer
+  rotate: false
+  xy: 524, 648
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Army Commander
+  rotate: false
+  xy: 796, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ballista
+  rotate: false
+  xy: 140, 316
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Chariot
+  rotate: false
+  xy: 1120, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Galley
+  rotate: false
+  xy: 1876, 920
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Horseman
+  rotate: false
+  xy: 248, 188
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Legatus
+  rotate: false
+  xy: 356, 188
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Legion
+  rotate: false
+  xy: 140, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Medjay
+  rotate: false
+  xy: 464, 404
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Phalanx
+  rotate: false
+  xy: 464, 296
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Purabhettarah
+  rotate: false
+  xy: 632, 648
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Quadrireme
+  rotate: false
+  xy: 576, 540
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Scout
+  rotate: false
+  xy: 876, 812
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Settler
+  rotate: false
+  xy: 984, 812
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Slinger
+  rotate: false
+  xy: 1092, 812
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Spearman
+  rotate: false
+  xy: 1200, 812
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Warrior
+  rotate: false
+  xy: 1416, 812
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
